@@ -50,7 +50,8 @@ results.concat supplement
   #   Formatador.display_line("[red]No such spell.[/]")
   # end
 # end
-light_cleric = ['Guidance',
+light_cleric = [
+  'Guidance',
   'Light',
   'Mending',
   'Resistance',
@@ -172,6 +173,7 @@ light_cleric = ['Guidance',
   'Mass Heal',
   'True Resurrection'
 ]
+
 
 markdown = create_md(results, light_cleric)
 puts markdown
