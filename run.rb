@@ -40,24 +40,14 @@ end
 supplement = JSON.load(File.new('supplement.json'))
 results.concat supplement
 
-# while true
-  # Formatador.display_line("[red]Enter the name of a spell:[/]")
-  # input = gets.chomp.titleize
-  # spell = results.detect { |spell| spell["name"] == input }
-  # if spell
-  #   puts_spell(spell)
-  # else
-  #   Formatador.display_line("[red]No such spell.[/]")
-  # end
-# end
 light_cleric = [
   'Guidance',
   'Light',
   'Mending',
-  # 'Resistance',
+  'Resistance',
   'Sacred Flame',
   'Spare the Dying',
-  # 'Thaumaturgy',
+  'Thaumaturgy',
 
   'Bane',
   'Bless',
@@ -119,62 +109,73 @@ light_cleric = [
   'Tongues',
   'Water Walk',
 
-  # 'Banishment',
-  # 'Control Water',
-  # 'Death Ward',
-  # 'Divination',
-  # 'Freedom of Movement',
-  # 'Guardian of Faith',
-  # 'Locate Creature',
-  # 'Stone Shape',
-  # 'Wall of Fire',
-  #
-  # 'Commune',
-  # 'Contagion',
-  # 'Dispel Evil and Good',
-  # 'Flame Strike',
-  # 'Geas',
-  # 'Greater Restoration',
-  # 'Hallow',
-  # 'Insect Plague',
-  # 'Legend Lore',
-  # 'Mass Cure Wounds',
-  # 'Planar Binding',
-  # 'Raise Dead',
-  # 'Scrying',
-  #
-  # 'Blade Barrier',
-  # 'Create Undead',
-  # 'Find the Path',
-  # 'Forbiddance',
-  # 'Harm',
-  # 'Heal',
-  # 'Heroes\' Feast',
-  # 'Planar Ally',
-  # 'True Seeing',
-  # 'Word of Recall',
-  #
-  # 'Conjure Celestial',
-  # 'Divine Word',
-  # 'Etherealness',
-  # 'Fire Storm',
-  # 'Plane Shift',
-  # 'Regenerate',
-  # 'Resurrection',
-  # 'Symbol',
-  #
-  # 'Antimagic Field',
-  # 'Control Weather',
-  # 'Earthquake',
-  # 'Holy Aura',
-  #
-  # 'Astral Projection',
-  # 'Gate',
-  # 'Mass Heal',
-  # 'True Resurrection'
+  'Banishment',
+  'Control Water',
+  'Death Ward',
+  'Divination',
+  'Freedom of Movement',
+  'Guardian of Faith',
+  'Locate Creature',
+  'Stone Shape',
+  'Wall of Fire',
+
+  'Commune',
+  'Contagion',
+  'Dispel Evil and Good',
+  'Flame Strike',
+  'Geas',
+  'Greater Restoration',
+  'Hallow',
+  'Insect Plague',
+  'Legend Lore',
+  'Mass Cure Wounds',
+  'Planar Binding',
+  'Raise Dead',
+  'Scrying',
+
+  'Blade Barrier',
+  'Create Undead',
+  'Find the Path',
+  'Forbiddance',
+  'Harm',
+  'Heal',
+  'Heroes\' Feast',
+  'Planar Ally',
+  'True Seeing',
+  'Word of Recall',
+
+  'Conjure Celestial',
+  'Divine Word',
+  'Etherealness',
+  'Fire Storm',
+  'Plane Shift',
+  'Regenerate',
+  'Resurrection',
+  'Symbol',
+
+  'Antimagic Field',
+  'Control Weather',
+  'Earthquake',
+  'Holy Aura',
+
+  'Astral Projection',
+  'Gate',
+  'Mass Heal',
+  'True Resurrection'
 ]
 
 
 markdown = create_md(results, light_cleric)
-puts markdown
+# puts markdown
 File.write('light_cleric.md', markdown)
+
+while true
+  Formatador.display_line("[red]Enter the name of a spell:[/]")
+  input = gets.chomp.titleize
+  spell = results.detect { |spell| spell["name"] == input }
+  if spell
+    puts_spell(spell)
+  else
+    Formatador.display_line("[red]No such spell.[/]")
+  end
+end
