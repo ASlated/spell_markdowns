@@ -3,6 +3,8 @@
 
 _Divination_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S 
@@ -14,6 +16,8 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 ## Light
 
 _Evocation_
+
+__Casting Time__ 1 action
 
 __Range__ Touch
 
@@ -29,6 +33,8 @@ You touch one object that is no larger than 10 feet in any dimension. Until the 
 
 _Transmutation_
 
+__Casting Time__ 1 minute
+
 __Range__ Touch
 
 __Components__ V S M (Two lodestones)
@@ -43,6 +49,8 @@ This spell repairs a single break or tear in an object you touch, such as broken
 
 _Abjuration_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S M (A miniature cloak)
@@ -54,6 +62,8 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 ## Sacred Flame
 
 _Evocation_
+
+__Casting Time__ 1 action
 
 __Range__ 60 ft
 
@@ -69,6 +79,8 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 
 _Necromancy_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S
@@ -80,6 +92,8 @@ You touch a living creature that has 0 hit points. The  creature becomes stable.
 ## Thaumaturgy
 
 _Transmutation_
+
+__Casting Time__ 1 action
 
 __Range__ 30 ft
 
@@ -108,6 +122,8 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 
 _Enchantment_
 
+__Casting Time__ 1 action
+
 __Range__ 30 ft
 
 __Components__ V S M (A drop of blood)
@@ -122,6 +138,8 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 _Enchantment_
 
+__Casting Time__ 1 action
+
 __Range__ 30 ft
 
 __Components__ V S M (A sprinkling of holy water)
@@ -135,6 +153,8 @@ You bless up to three creatures of your choice within range. Whenever a target m
 ## Burning Hands
 
 _Evocation_
+
+__Casting Time__ 1 action
 
 __Range__ Self
 
@@ -151,6 +171,8 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 ## Command
 
 _Enchantment_
+
+__Casting Time__ 1 action
 
 __Range__ 60 ft
 
@@ -178,6 +200,8 @@ You speak a one-word command to a creature you can see within range. The target 
 
 _Transmutation_
 
+__Casting Time__ 1 action
+
 __Range__ 30 ft
 
 __Components__ V S M (A drop of water if creating water, or a few grains of sand if destroying it)
@@ -196,6 +220,8 @@ You either create or destroy water.
 
 _Evocation_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S 
@@ -210,6 +236,8 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 _Divination_
 
+__Casting Time__ 1 action
+
 __Range__ Self (30ft)
 
 __Components__ V S 
@@ -221,6 +249,8 @@ For the duration, you know if there is an aberration, celestial, elemental, fey,
 ## Detect Magic
 
 _Divination_
+
+__Casting Time__ 1 action
 
 __Range__ Self (30ft)
 
@@ -236,6 +266,8 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 
 _Divination_
 
+__Casting Time__ 1 action
+
 __Range__ Self (30ft)
 
 __Components__ V S M (A yew leaf)
@@ -249,6 +281,8 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 ## Faerie Fire
 
 _Evocation_
+
+__Casting Time__ 1 action
 
 __Range__ 60 ft
 
@@ -264,6 +298,8 @@ Each object in a 20-foot cube within range is outlined in blue, green, or violet
 
 _Evocation_
 
+__Casting Time__ 1 action
+
 __Range__ 120 ft
 
 __Components__ V S 
@@ -277,6 +313,8 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 ## Healing Word
 
 _Evocation_
+
+__Casting Time__ 1 bonus action
 
 __Range__ 60 ft
 
@@ -292,6 +330,8 @@ A creature of your choice that you can see within range regains hit points equal
 
 _Necromancy_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S 
@@ -305,6 +345,8 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 ## Protection from Evil and Good
 
 _Abjuration_
+
+__Casting Time__ 1 action
 
 __Range__ Touch
 
@@ -320,6 +362,8 @@ Until the spell ends, one willing creature you touch is protected against certai
 
 _Transmutation_
 
+__Casting Time__ 1 action
+
 __Range__ 10 ft
 
 __Components__ V S 
@@ -331,6 +375,8 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 ## Sanctuary
 
 _Abjuration_
+
+__Casting Time__ 1 bonus action
 
 __Range__ 30 ft
 
@@ -346,6 +392,8 @@ You ward a creature within range against attack. Until the spell ends, any creat
 
 _Abjuration_
 
+__Casting Time__ 1 bonus action
+
 __Range__ 60 ft
 
 __Components__ V S M (A small parchment with a bit of holy text written on it)
@@ -358,6 +406,8 @@ A shimmering field appears and surrounds a creature of your choice within range,
 ## Aid
 
 _Abjuration_
+
+__Casting Time__ 1 action
 
 __Range__ 30 ft
 
@@ -372,6 +422,8 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 ## Augury
 
 _Divination_
+
+__Casting Time__ 1 minute
 
 __Range__ Self
 
@@ -397,6 +449,8 @@ By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or 
 
 _Necromancy_
 
+__Casting Time__ 1 action
+
 __Range__ 30 feet
 
 __Components__ V 
@@ -409,6 +463,8 @@ At Higher Levels. When you cast this spell using a spell slot of 3rd level or hi
 ## Calm Emotions
 
 _Enchantment_
+
+__Casting Time__ 1 action
 
 __Range__ 60 ft
 
@@ -426,6 +482,8 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 
 _Evocation_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S M (Ruby dust worth 50 gp, which the spell consumes)
@@ -437,6 +495,8 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 ## Enhance Ability
 
 _Transmutation_
+
+__Casting Time__ 1 action
 
 __Range__ Touch
 
@@ -464,6 +524,8 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 _Divination_
 
+__Casting Time__ 1 action
+
 __Range__ 120 ft
 
 __Components__ V S 
@@ -477,6 +539,8 @@ You sense the presence of any trap within range that is within line of sight. A 
 ## Flaming Sphere
 
 _Conjuration_
+
+__Casting Time__ 1 action
 
 __Range__ 60 ft
 
@@ -496,6 +560,8 @@ A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice w
 
 _Necromancy_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S M (A pinch of salt and one copper piece placed on each of the corpse's eyes, which must remain there for the duration)
@@ -509,6 +575,8 @@ You touch a corpse or other remains. For the duration, the target is protected f
 ## Hold Person
 
 _Enchantment_
+
+__Casting Time__ 1 action
 
 __Range__ 60 ft
 
@@ -524,6 +592,8 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 _Abjuration_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S 
@@ -535,6 +605,8 @@ You touch a creature and can end either one disease or one condition afflicting 
 ## Locate Object
 
 _Divination_
+
+__Casting Time__ 1 action
 
 __Range__ Self
 
@@ -552,6 +624,8 @@ Describe or name an object that is familiar to you. You sense the direction to t
 
 _Evocation_
 
+__Casting Time__ 10 minutes
+
 __Range__ 30 ft
 
 __Components__ V 
@@ -566,6 +640,8 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 _Abjuration_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S 
@@ -579,6 +655,8 @@ You touch a creature. If it is poisoned, you neutralize the poison. If more than
 ## Scorching Ray
 
 _Evocation_
+
+__Casting Time__ 1 action
 
 __Range__ 120 ft
 
@@ -596,6 +674,8 @@ You create three rays of fire and hurl them at targets within range. You can hur
 
 _Illusion_
 
+__Casting Time__ 1 action
+
 __Range__ 120 ft
 
 __Components__ V S 
@@ -607,6 +687,8 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 ## Spiritual Weapon
 
 _Evocation_
+
+__Casting Time__ 1 bonus action
 
 __Range__ 60 ft
 
@@ -626,6 +708,8 @@ You create a floating, spectral weapon within range that lasts for the duration 
 
 _Abjuration_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S M (A pair of platinum rings worth at least 50gp each, which you and the target must wear for the duration)
@@ -639,6 +723,8 @@ This spell wards a willing creature you touch and creates a mystic connection be
 ## Zone of Truth
 
 _Enchantment_
+
+__Casting Time__ 1 action
 
 __Range__ 60 ft
 
@@ -654,6 +740,8 @@ You create a magical zone that guards against deception in a 15-foot-radius sphe
 ## Animate Dead
 
 _Necromancy_
+
+__Casting Time__ 1 minute
 
 __Range__ 10 ft
 
@@ -673,6 +761,8 @@ This spell creates an undead servant. Choose a pile of bones or a corpse of a Me
 
 _Abjuration_
 
+__Casting Time__ 1 action
+
 __Range__ 30 ft
 
 __Components__ V S 
@@ -684,6 +774,8 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 ## Bestow Curse
 
 _Necromancy_
+
+__Casting Time__ 1 action
 
 __Range__ Touch
 
@@ -709,6 +801,8 @@ You touch a creature, and that creature must succeed on a Wisdom saving throw or
 
 _Divination_
 
+__Casting Time__ 10 minutes
+
 __Range__ 1 mile
 
 __Components__ V S M (A focus worth at least 100gp, either a jeweled horn for hearing or a glass eye for seeing)
@@ -725,6 +819,8 @@ You create an invisible sensor within range in a location familiar to you (a pla
 
 _Conjuration_
 
+__Casting Time__ 1 action
+
 __Range__ 30 ft
 
 __Components__ V S 
@@ -736,6 +832,8 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 ## Daylight
 
 _Evocation_
+
+__Casting Time__ 1 action
 
 __Range__ 60 ft
 
@@ -753,6 +851,8 @@ A 60-foot-radius sphere of light spreads out from a point you choose within rang
 
 _Abjuration_
 
+__Casting Time__ 1 action
+
 __Range__ 120 ft
 
 __Components__ V S 
@@ -767,6 +867,8 @@ Choose any creature, object, or magical effect within range. Any spell of 3rd le
 
 _Necromancy_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S M (a pinch of graveyard dirt)
@@ -779,6 +881,8 @@ For the spell's duration, or until you use an action to touch the target appears
 ## Fireball
 
 _Evocation_
+
+__Casting Time__ 1 action
 
 __Range__ 150 ft
 
@@ -795,6 +899,8 @@ A bright streak flashes from your pointing finger to a point you choose within r
 ## Glyph of Warding
 
 _Abjuration_
+
+__Casting Time__ 1 hour
 
 __Range__ Touch
 
@@ -822,6 +928,8 @@ When you cast this spell, you inscribe a glyph that harms other creatures, eithe
 
 _Abjuration_
 
+__Casting Time__ 1 minute
+
 __Range__ 10 ft
 
 __Components__ V S M (Holy water or powdered silver and iron worth at least 100 gp, which the spell consumes)
@@ -846,6 +954,8 @@ You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on
 
 _Evocation_
 
+__Casting Time__ 1 bonus action
+
 __Range__ 60 ft
 
 __Components__ V 
@@ -859,6 +969,8 @@ As you call out words of restoration, up to six creatures of your choice that yo
 ## Meld into Stone
 
 _Transmutation_
+
+__Casting Time__ 1 action
 
 __Range__ Touch
 
@@ -876,6 +988,8 @@ You step into a stone object or surface large enough to fully contain your body,
 
 _Abjuration_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S 
@@ -887,6 +1001,8 @@ For the duration, the willing creature you touch has resistance to one damage ty
 ## Remove Curse
 
 _Abjuration_
+
+__Casting Time__ 1 action
 
 __Range__ Touch
 
@@ -900,6 +1016,8 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 _Necromancy_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S M (Diamonds worth 300gp, which the spell consumes)
@@ -911,6 +1029,8 @@ You touch a creature that has died within the last minute. That creature returns
 ## Sending
 
 _Evocation_
+
+__Casting Time__ 1 action
 
 __Range__ Unlimited
 
@@ -926,6 +1046,8 @@ You send a short message of twenty-five words or less to a creature with you are
 
 _Necromancy_
 
+__Casting Time__ 1 action
+
 __Range__ 10 ft
 
 __Components__ V S M (Burning incense)
@@ -939,6 +1061,8 @@ You grant the semblance of life and intelligence to a corpse of your choice with
 ## Spirit Guardians
 
 _Conjuration_
+
+__Casting Time__ 1 action
 
 __Range__ Self
 
@@ -956,6 +1080,8 @@ You call forth spirits to protect you. They flit around you to a distance of 15 
 
 _Divination_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V M (A small clay model of a ziggurat)
@@ -967,6 +1093,8 @@ This spell grants the creature you touch the ability to understand any spoken la
 ## Water Walk
 
 _Transmutation_
+
+__Casting Time__ 1 action
 
 __Range__ 30 ft
 
@@ -982,6 +1110,8 @@ This spell grants the ability to move across any liquid surface - such as water,
 ## Banishment
 
 _Abjuration_
+
+__Casting Time__ 1 action
 
 __Range__ 60 ft
 
@@ -1000,6 +1130,8 @@ You attempt to send one creature that you can see within range to another place 
 ## Control Water
 
 _Transmutation_
+
+__Casting Time__ 1 action
 
 __Range__ 300 ft
 
@@ -1021,6 +1153,8 @@ Until the spell ends, you control any freestanding water inside an area you choo
 
 _Abjuration_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S 
@@ -1032,6 +1166,8 @@ You touch a creature and grant it a measure of protection from death. The first 
 ## Divination
 
 _Divination_
+
+__Casting Time__ 1 action
 
 __Range__ Self
 
@@ -1049,6 +1185,8 @@ Your magic and an offering put you in contact with a god or a god's servants. Yo
 
 _Abjuration_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S M (A leather strap, bound around the arm or a similar appendage)
@@ -1063,6 +1201,8 @@ You touch a willing creature. For the duration, the target's movement is unaffec
 
 _Conjuration_
 
+__Casting Time__ 1 action
+
 __Range__ 30 feet
 
 __Components__ V
@@ -1076,6 +1216,8 @@ A Large spectral guardian appears and hovers for  the duration in an unoccupied 
 ## Locate Creature
 
 _Divination_
+
+__Casting Time__ 1 action
 
 __Range__ Self
 
@@ -1093,6 +1235,8 @@ Describe or name a creature that is familiar to you. You sense the direction to 
 
 _Transmutation_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S M (Soft clay, to be crudely worked into the desired shape for the stone object)
@@ -1104,6 +1248,8 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 ## Wall of Fire
 
 _Evocation_
+
+__Casting Time__ 1 action
 
 __Range__ 120 ft
 
@@ -1124,6 +1270,8 @@ You create a wall of fire on a solid surface within range. You can make the wall
 
 _Divination_
 
+__Casting Time__ 1 minute
+
 __Range__ Self
 
 __Components__ V S M (Incense and a vial of holy or unholy water)
@@ -1139,6 +1287,8 @@ You contact your deity or a divine proxy and ask up to three questions that can 
 ## Contagion
 
 _Necromancy_
+
+__Casting Time__ 1 action
 
 __Range__ Touch
 
@@ -1168,6 +1318,8 @@ Your touch inflicts disease. Make a melee spell attack against a creature within
 
 _Abjuration_
 
+__Casting Time__ 1 action
+
 __Range__ Self
 
 __Components__ V S M (Holy water or powdered silver and iron)
@@ -1184,6 +1336,8 @@ Shimmering energy surrounds and protects you from fey, undead, and creatures ori
 
 _Evocation_
 
+__Casting Time__ 1 action
+
 __Range__ 60 ft
 
 __Components__ V S M (Pinch of sulfur)
@@ -1197,6 +1351,8 @@ A vertical column of divine fire roars down from the heavens in a location you s
 ## Geas
 
 _Enchantment_
+
+__Casting Time__ 1 minute
 
 __Range__ 60 ft
 
@@ -1215,6 +1371,8 @@ You place a magical command on a creature that you can see within range, forcing
 ## Greater Restoration
 
 _Abjuration_
+
+__Casting Time__ 1 action
 
 __Range__ Touch
 
@@ -1235,6 +1393,8 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 ## Hallow
 
 _Evocation_
+
+__Casting Time__ 24 hours
 
 __Range__ Touch
 
@@ -1272,6 +1432,8 @@ You touch a point and infuse an area around it with holy (or unholy) power. The 
 
 _Conjuration_
 
+__Casting Time__ 1 action
+
 __Range__ 300 ft
 
 __Components__ V S M (A few grains of sugar, some kernels of grain, and a smear of fat)
@@ -1288,6 +1450,8 @@ Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you ch
 
 _Divination_
 
+__Casting Time__ 10 minutes
+
 __Range__ Self
 
 __Components__ V S M (Incense worth at least 250 gp, which the spell consumes, and four ivory strips worth 50 gp each)
@@ -1302,6 +1466,8 @@ Name or describe a person, place, or object. The spell brings to your mind a bri
 
 _Evocation_
 
+__Casting Time__ 1 action
+
 __Range__ 60 ft
 
 __Components__ V S 
@@ -1315,6 +1481,8 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 ## Planar Binding
 
 _Abjuration_
+
+__Casting Time__ 1 hour
 
 __Range__ 60 ft
 
@@ -1331,6 +1499,8 @@ With this spell, you attempt to bind a celestial, an elemental, a fey, or a fien
 ## Raise Dead
 
 _Necromancy_
+
+__Casting Time__ 1 hour
 
 __Range__ Touch
 
@@ -1349,6 +1519,8 @@ You return a dead creature you touch to life, provided that it has been dead no 
 ## Scrying
 
 _Divination_
+
+__Casting Time__ 10 minutes
 
 __Range__ Self
 
@@ -1384,6 +1556,8 @@ Familiar (you know the target well) - -5
 
 _Evocation_
 
+__Casting Time__ 1 action
+
 __Range__ 90 ft
 
 __Components__ V S 
@@ -1397,6 +1571,8 @@ You create a vertical wall of whirling, razor-sharp blades made of magical energ
 ## Create Undead
 
 _Necromancy_
+
+__Casting Time__ 1 minute
 
 __Range__ 10 ft
 
@@ -1416,6 +1592,8 @@ You can cast this spell only at night. Choose up to three corpses of Medium or S
 
 _Divination_
 
+__Casting Time__ 1 minute
+
 __Range__ Self
 
 __Components__ V S M (A set of divinatory tools—such as bones, ivory sticks, cards, teeth, or carved runes—worth 100gp and an object from the location you wish to find)
@@ -1429,6 +1607,8 @@ This spell allows you to find the shortest, most direct physical route to a spec
 ## Forbiddance
 
 _Abjuration_
+
+__Casting Time__ 10 minutes
 
 __Range__ Touch
 
@@ -1448,6 +1628,8 @@ You create a ward against magical travel that protects up to 40,000 square feet 
 
 _Necromancy_
 
+__Casting Time__ 1 action
+
 __Range__ 60 ft
 
 __Components__ V S 
@@ -1459,6 +1641,8 @@ You unleash a virulent disease on a creature that you can see within range. The 
 ## Heal
 
 _Evocation_
+
+__Casting Time__ 1 action
 
 __Range__ 60 ft
 
@@ -1474,6 +1658,8 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 _Conjuration_
 
+__Casting Time__ 10 minutes
+
 __Range__ 30 ft
 
 __Components__ V S M (A gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)
@@ -1487,6 +1673,8 @@ You bring forth a great feast, including magnificent food and drink. The feast t
 ## Planar Ally
 
 _Conjuration_
+
+__Casting Time__ 10 minutes
 
 __Range__ 60 ft
 
@@ -1510,6 +1698,8 @@ You beseech an otherworldly entity for aid. The being must be known to you - a g
 
 _Divination_
 
+__Casting Time__ 1 action
+
 __Range__ Touch
 
 __Components__ V S M (An ointment for the eyes that costs 25gp; is made from mushroom powder, saffron, and fat; and is consumed by the spell)
@@ -1521,6 +1711,8 @@ This spell gives the willing creature you touch the ability to see things as the
 ## Word of Recall
 
 _Conjuration_
+
+__Casting Time__ 1 action
 
 __Range__ 5 ft
 
@@ -1537,6 +1729,8 @@ You and up to five willing creatures within 5 feet of you instantly teleport to 
 
 _Conjuration_
 
+__Casting Time__ 1 minute
+
 __Range__ 90 ft
 
 __Components__ V S 
@@ -1552,6 +1746,8 @@ You summon a celestial of challenge rating 4 or lower, which appears in an unocc
 ## Divine Word
 
 _Evocation_
+
+__Casting Time__ 1 bonus action
 
 __Range__ 30 ft
 
@@ -1575,6 +1771,8 @@ You utter a divine word, imbued with the power that shaped the world at the dawn
 
 _Transmutation_
 
+__Casting Time__ 1 action
+
 __Range__ Self
 
 __Components__ V S 
@@ -1597,6 +1795,8 @@ You step into the border regions of the Ethereal Plane, in the area where it ove
 
 _Evocation_
 
+__Casting Time__ 1 action
+
 __Range__ 150 ft
 
 __Components__ V S 
@@ -1610,6 +1810,8 @@ A storm made up of sheets of roaring flame appears in a location you choose with
 ## Plane Shift
 
 _Conjuration_
+
+__Casting Time__ 1 action
 
 __Range__ Touch
 
@@ -1627,6 +1829,8 @@ You and up to eight willing creatures who link hands in a circle are transported
 
 _Transmutation_
 
+__Casting Time__ 1 minute
+
 __Range__ Touch
 
 __Components__ V S M (A prayer wheel and holy water)
@@ -1640,6 +1844,8 @@ You touch a creature and stimulate its natural healing ability. The target regai
 ## Resurrection
 
 _Necromancy_
+
+__Casting Time__ 1 hour
 
 __Range__ Touch
 
@@ -1660,6 +1866,8 @@ You touch a dead creature that has been dead for no more than a century, that di
 ## Symbol
 
 _Abjuration_
+
+__Casting Time__ 1 minute
 
 __Range__ Touch
 
@@ -1698,6 +1906,8 @@ When you cast this spell, you inscribe a harmful glyph either on a surface (such
 
 _Abjuration_
 
+__Casting Time__ 1 action
+
 __Range__ Self
 
 __Components__ V S M (A pinch of powdered iron or iron filings)
@@ -1725,6 +1935,8 @@ A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divor
 ## Control Weather
 
 _Transmutation_
+
+__Casting Time__ 10 minutes
 
 __Range__ Self
 
@@ -1764,6 +1976,8 @@ Stage 5 - Storm
 
 _Evocation_
 
+__Casting Time__ 1 action
+
 __Range__ 500 ft
 
 __Components__ V S M (A pinch of dirt, a piece of rock, and a lump of clay)
@@ -1786,6 +2000,8 @@ You create a seismic disturbance at a point on the ground that you can see withi
 
 _Abjuration_
 
+__Casting Time__ 1 action
+
 __Range__ Self
 
 __Components__ V S M (A tiny reliquary worth at least 1,000 gp containing a sacred relic, such as a scrap of cloth from a saint's robe or a piece of parchment from a religious text)
@@ -1798,6 +2014,8 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 ## Astral Projection
 
 _Necromancy_
+
+__Casting Time__ 1 hour
 
 __Range__ 10 ft
 
@@ -1821,6 +2039,8 @@ You and up to eight willing creatures within range project your astral bodies in
 
 _Conjuration_
 
+__Casting Time__ 1 action
+
 __Range__ 60 ft
 
 __Components__ V S M (A diamond worth at least 5,000gp)
@@ -1839,6 +2059,8 @@ You conjure a portal linking an unoccupied space you can see within range to a p
 
 _Evocation_
 
+__Casting Time__ 1 action
+
 __Range__ 60 ft
 
 __Components__ V S 
@@ -1850,6 +2072,8 @@ A flood of healing energy flows from you into injured creatures around you. You 
 ## True Resurrection
 
 _Necromancy_
+
+__Casting Time__ 1 hour
 
 __Range__ Touch
 

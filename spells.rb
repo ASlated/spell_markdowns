@@ -44,6 +44,7 @@ def create_md(spells, list)
     level = spell['data']['Level']
     str += "## #{spell['name']}\n\n"
     str += "_#{spell['data']['School']}_\n\n"
+    str += "__Casting Time__ #{spell['data']['Casting Time']}\n\n"
     str += "__Range__ #{spell['data']['Range']}\n\n"
     if spell['data'].key?('Material')
       str += "__Components__ #{spell['data']['Components']} (#{spell['data']['Material']})\n\n"
