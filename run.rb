@@ -164,10 +164,123 @@ light_cleric = [
   'True Resurrection'
 ]
 
+ranger = [
+  'Alarm',
+  'Animal Friendship',
+  'Cure Wounds',
+  'Detect Magic',
+  'Detect Poison and Disease',
+  'Ensnaring Strike',
+  'Fog Cloud',
+  'Goodberry',
+  'Hail of Thorns',
+  'Hunter\'s Mark',
+  'Jump',
+  'Longstrider',
+  'Speak with Animals',
 
-markdown = create_md(results, light_cleric)
-# puts markdown
-File.write('light_cleric.md', markdown)
+  'Animal Messenger',
+  'Barskin',
+  'Beast Sense',
+  'Cordon of Arrows',
+  'Darkvision',
+  'Find Traps',
+  'Lesser Restoration',
+  'Locate Animals or Plants',
+  'Locate Object',
+  'Pass without Trace',
+  'Protection from Poison',
+  'Silence',
+  'Spike Growth',
+
+  'Conjure Animals',
+  'Conjure Barrage',
+  'Daylight',
+  'Lightning Arrow',
+  'Nondetection',
+  'Plant Growth',
+  'Protection from Energy',
+  'Speak with Plants',
+  'Water Breathing',
+  'Water Walk',
+  'Wind Wall',
+
+  'Conjure Woodland Beings',
+  'Freedom of Movement',
+  'Grasping Vine',
+  'Locate Creature',
+  'Stoneskin',
+
+  'Commune with Nature',
+  'Conjure Volley',
+  'Swift Quiver',
+  'Tree Stride'
+]
+
+devotion_paladin = [
+  'Bless',
+  'Command',
+  'Compelled Duel',
+  'Cure Wounds',
+  'Detect Evil and Good',
+  'Detect Magic',
+  'Detect Poison and Disease',
+  'Divine Favor',
+  'Heroism',
+  'Protection from Evil and Good',
+  'Purify Food and Drink',
+  'Sanctuary',
+  'Searing Smite',
+  'Shield of Faith',
+  'Thunderous Smite',
+  'Wraithful Smite',
+
+  'Aid',
+  'Branding Smite',
+  'Find Steed',
+  'Lesser Restoration',
+  'Locate Object',
+  'Magic Weapon',
+  'Protection from Poison',
+  'Zone of Truth',
+
+  'Aura of Vitality',
+  'Beacon of Hope',
+  'Blinding Smite',
+  'Create Food and Water',
+  'Crusader\'s Mantle',
+  'Daylight',
+  'Dispel Magic',
+  'Elemental Weapon',
+  'Magic Circle',
+  'Remove Curse',
+  'Revivify',
+
+  'Aura of Life',
+  'Aura of Purity',
+  'Banishment',
+  'Death Ward',
+  'Freedom of Movement',
+  'Guardian of Faith',
+  'Locate Creature',
+  'Staggering Smite',
+
+  'Banishing Smite',
+  'Circle of Power',
+  'Commune',
+  'Destructive Wave',
+  'Dispel Evil and Good',
+  'Flame Strike',
+  'Geas',
+  'Raise Dead'
+]
+
+
+cleric_markdown = create_md(results, light_cleric)
+# puts cleric_markdown
+File.write('light_cleric.md', cleric_markdown)
+File.write('ranger.md', create_md(results, ranger))
+File.write('devotion_paladin.md', create_md(results, devotion_paladin))
 
 while true
   Formatador.display_line("[red]Enter the name of a spell:[/]")

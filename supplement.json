@@ -92,6 +92,20 @@
     }
   },
   {
+    "name": "Barskin",
+    "content": "You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.",
+    "data": {
+      "Level": "2",
+      "Range": "Touch",
+      "School": "Transmutation",
+      "Classes": "Druid,  Ranger",
+      "Duration": "Concentration, up to 1 hour",
+      "Material": "a handful of oak bark",
+      "Components": "V S M",
+      "Casting Time": "1 action"
+    }
+  },
+  {
     "name": "Beast Sense",
     "content": "You touch a willing beast. For the duration of the spell, you can use your action to see through the beast's eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses. While perceiving through the beast's senses, you gain the benefits of any special senses possessed by that creature, though you are blinded and deafened to your own surroundings.",
     "data": {
