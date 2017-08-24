@@ -47,13 +47,13 @@ def create_md(spells, list)
     when "0"
       str += "_#{spell['data']['School']} cantrip_\n\n"
     when "1"
-      str += "_1st-level #{spell['data']['School']}_\n\n"
+      str += "_1st-level #{spell['data']['School'].downcase}_\n\n"
     when "2"
-      str += "_2nd-level #{spell['data']['School']}_\n\n"
+      str += "_2nd-level #{spell['data']['School'].downcase}_\n\n"
     when "3"
-      str += "_3rd-level #{spell['data']['School']}_\n\n"
+      str += "_3rd-level #{spell['data']['School'].downcase}_\n\n"
     else
-      str += "_#{spell['data']['Level']}th-level #{spell['data']['School']}_\n\n"
+      str += "_#{spell['data']['Level']}th-level #{spell['data']['School'].downcase}_\n\n"
     end
     str += "__Casting Time__ #{spell['data']['Casting Time']}\n\n"
     str += "__Range__ #{spell['data']['Range']}\n\n"

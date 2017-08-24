@@ -1,7 +1,7 @@
 # Level 1 Spells
 ## Bless
 
-_1st-level Enchantment_
+_1st-level enchantment_
 
 __Casting Time__ 1 action
 
@@ -17,7 +17,7 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 ## Command
 
-_1st-level Enchantment_
+_1st-level enchantment_
 
 __Casting Time__ 1 action
 
@@ -45,7 +45,7 @@ You speak a one-word command to a creature you can see within range. The target 
 
 ## Compelled Duel
 
-_1st-level Enchantment_
+_1st-level enchantment_
 
 __Casting Time__ 1 bonus action
 
@@ -59,7 +59,7 @@ You attempt to compel a creature into a duel. One creature that you can see with
 
 ## Cure Wounds
 
-_1st-level Evocation_
+_1st-level evocation_
 
 __Casting Time__ 1 action
 
@@ -75,7 +75,7 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 ## Detect Evil and Good
 
-_1st-level Divination_
+_1st-level divination_
 
 __Casting Time__ 1 action
 
@@ -89,7 +89,7 @@ For the duration, you know if there is an aberration, celestial, elemental, fey,
 
 ## Detect Magic
 
-_1st-level Divination_
+_1st-level divination_
 
 __Casting Time__ 1 action
 
@@ -105,7 +105,7 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 
 ## Detect Poison and Disease
 
-_1st-level Divination_
+_1st-level divination_
 
 __Casting Time__ 1 action
 
@@ -121,7 +121,7 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 
 ## Divine Favor
 
-_1st-level Evocation_
+_1st-level evocation_
 
 __Casting Time__ 1 bonus action
 
@@ -135,7 +135,7 @@ Your prayer empowers you with divine radiance. Until the spell ends, your weapon
 
 ## Heroism
 
-_1st-level Enchantment_
+_1st-level enchantment_
 
 __Casting Time__ 1 action
 
@@ -151,7 +151,7 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 ## Protection from Evil and Good
 
-_1st-level Abjuration_
+_1st-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -167,7 +167,7 @@ Until the spell ends, one willing creature you touch is protected against certai
 
 ## Purify Food and Drink
 
-_1st-level Transmutation_
+_1st-level transmutation_
 
 __Casting Time__ 1 action
 
@@ -181,7 +181,7 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 
 ## Sanctuary
 
-_1st-level Abjuration_
+_1st-level abjuration_
 
 __Casting Time__ 1 bonus action
 
@@ -197,7 +197,7 @@ You ward a creature within range against attack. Until the spell ends, any creat
 
 ## Searing Smite
 
-_1st-level Evocation_
+_1st-level evocation_
 
 __Casting Time__ 1 bonus action
 
@@ -212,7 +212,7 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 
 ## Shield of Faith
 
-_1st-level Abjuration_
+_1st-level abjuration_
 
 __Casting Time__ 1 bonus action
 
@@ -226,7 +226,7 @@ A shimmering field appears and surrounds a creature of your choice within range,
 
 ## Thunderous Smite
 
-_1st-level Evocation_
+_1st-level evocation_
 
 __Casting Time__ 1 bonus action
 
@@ -240,7 +240,7 @@ The first time you hit with a melee weapon attack during this spell's duration, 
 
 ## Wraithful Smite
 
-_1st-level Evocation_
+_1st-level evocation_
 
 __Casting Time__ 1 bonus action
 
@@ -255,7 +255,7 @@ The next time you hit with a melee weapon attack during this spell's duration, y
 # Level 2 Spells
 ## Aid
 
-_2nd-level Abjuration_
+_2nd-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -271,7 +271,7 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 ## Branding Smite
 
-_2nd-level Evocation_
+_2nd-level evocation_
 
 __Casting Time__ 1 bonus action
 
@@ -287,7 +287,7 @@ The next time you hit a creature with a weapon attack before this spell ends, th
 
 ## Find Steed
 
-_2nd-level Conjuration_
+_2nd-level conjuration_
 
 __Casting Time__ 10 minutes
 
@@ -309,7 +309,7 @@ You summon a spirit that assumes the form of an unusually intelligent, strong, a
 
 ## Lesser Restoration
 
-_2nd-level Abjuration_
+_2nd-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -323,7 +323,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 ## Locate Object
 
-_2nd-level Divination_
+_2nd-level divination_
 
 __Casting Time__ 1 action
 
@@ -341,7 +341,7 @@ Describe or name an object that is familiar to you. You sense the direction to t
 
 ## Magic Weapon
 
-_2nd-level Transmutation_
+_2nd-level transmutation_
 
 __Casting Time__ 1 bonus action
 
@@ -357,7 +357,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 ## Protection from Poison
 
-_2nd-level Abjuration_
+_2nd-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -373,7 +373,7 @@ You touch a creature. If it is poisoned, you neutralize the poison. If more than
 
 ## Zone of Truth
 
-_2nd-level Enchantment_
+_2nd-level enchantment_
 
 __Casting Time__ 1 action
 
@@ -390,7 +390,7 @@ You create a magical zone that guards against deception in a 15-foot-radius sphe
 # Level 3 Spells
 ## Aura of Vitality
 
-_3rd-level Evocation_
+_3rd-level evocation_
 
 __Casting Time__ 1 action
 
@@ -404,7 +404,7 @@ Healing energy radiates from you in an aura with a 30-foot radius. Until the spe
 
 ## Beacon of Hope
 
-_3rd-level Abjuration_
+_3rd-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -418,7 +418,7 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 
 ## Blinding Smite
 
-_3rd-level Evocation_
+_3rd-level evocation_
 
 __Casting Time__ 1 bonus action
 
@@ -432,7 +432,7 @@ The next time you hit a creature with a melee weapon attack during this spell's 
 
 ## Create Food and Water
 
-_3rd-level Conjuration_
+_3rd-level conjuration_
 
 __Casting Time__ 1 action
 
@@ -446,7 +446,7 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 
 ## Crusader's Mantle
 
-_3rd-level Evocation_
+_3rd-level evocation_
 
 __Casting Time__ 1 action
 
@@ -460,7 +460,7 @@ Holy power radiates from you in an aura with a 30-foot radius, awakening boldnes
 
 ## Daylight
 
-_3rd-level Evocation_
+_3rd-level evocation_
 
 __Casting Time__ 1 action
 
@@ -478,7 +478,7 @@ A 60-foot-radius sphere of light spreads out from a point you choose within rang
 
 ## Dispel Magic
 
-_3rd-level Abjuration_
+_3rd-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -494,7 +494,7 @@ Choose any creature, object, or magical effect within range. Any spell of 3rd le
 
 ## Elemental Weapon
 
-_3rd-level Transmutation_
+_3rd-level transmutation_
 
 __Casting Time__ 1 action
 
@@ -509,7 +509,7 @@ At Higher Levels. When you cast this spell using a spell slot of 5th level or 6t
 
 ## Magic Circle
 
-_3rd-level Abjuration_
+_3rd-level abjuration_
 
 __Casting Time__ 1 minute
 
@@ -535,7 +535,7 @@ You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on
 
 ## Remove Curse
 
-_3rd-level Abjuration_
+_3rd-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -549,7 +549,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 ## Revivify
 
-_3rd-level Necromancy_
+_3rd-level necromancy_
 
 __Casting Time__ 1 action
 
@@ -564,7 +564,7 @@ You touch a creature that has died within the last minute. That creature returns
 # Level 4 Spells
 ## Aura of Life
 
-_4th-level Abjuration_
+_4th-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -578,7 +578,7 @@ Life-preserving energy radiates from you in an aura with a 30-foot radius. Until
 
 ## Aura of Purity
 
-_4th-level Abjuration_
+_4th-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -592,7 +592,7 @@ Purifying energy radiates from you in an aura with a 30-foot radius. Until the s
 
 ## Banishment
 
-_4th-level Abjuration_
+_4th-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -612,7 +612,7 @@ You attempt to send one creature that you can see within range to another place 
 
 ## Death Ward
 
-_4th-level Abjuration_
+_4th-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -626,7 +626,7 @@ You touch a creature and grant it a measure of protection from death. The first 
 
 ## Freedom of Movement
 
-_4th-level Abjuration_
+_4th-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -642,7 +642,7 @@ You touch a willing creature. For the duration, the target's movement is unaffec
 
 ## Guardian of Faith
 
-_4th-level Conjuration_
+_4th-level conjuration_
 
 __Casting Time__ 1 action
 
@@ -658,7 +658,7 @@ A Large spectral guardian appears and hovers for  the duration in an unoccupied 
 
 ## Locate Creature
 
-_4th-level Divination_
+_4th-level divination_
 
 __Casting Time__ 1 action
 
@@ -676,7 +676,7 @@ Describe or name a creature that is familiar to you. You sense the direction to 
 
 ## Staggering Smite
 
-_4th-level Evocation_
+_4th-level evocation_
 
 __Casting Time__ 1 bonus action
 
@@ -691,7 +691,7 @@ The next time you hit a creature with a melee weapon attack during this spell's 
 # Level 5 Spells
 ## Banishing Smite
 
-_5th-level Abjuration_
+_5th-level abjuration_
 
 __Casting Time__ 1 bonus action
 
@@ -705,7 +705,7 @@ The next time you hit a creature with a weapon attack before this spell ends, yo
 
 ## Circle of Power
 
-_5th-level Abjuration_
+_5th-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -719,7 +719,7 @@ Divine energy radiates from you, distorting and diffusing magical energy within 
 
 ## Commune
 
-_5th-level Divination_
+_5th-level divination_
 
 __Casting Time__ 1 minute
 
@@ -737,7 +737,7 @@ You contact your deity or a divine proxy and ask up to three questions that can 
 
 ## Destructive Wave
 
-_5th-level Evocation_
+_5th-level evocation_
 
 __Casting Time__ 1 action
 
@@ -751,7 +751,7 @@ You strike the ground, creating a burst of divine energy that ripples outward fr
 
 ## Dispel Evil and Good
 
-_5th-level Abjuration_
+_5th-level abjuration_
 
 __Casting Time__ 1 action
 
@@ -769,7 +769,7 @@ Shimmering energy surrounds and protects you from fey, undead, and creatures ori
 
 ## Flame Strike
 
-_5th-level Evocation_
+_5th-level evocation_
 
 __Casting Time__ 1 action
 
@@ -785,7 +785,7 @@ A vertical column of divine fire roars down from the heavens in a location you s
 
 ## Geas
 
-_5th-level Enchantment_
+_5th-level enchantment_
 
 __Casting Time__ 1 minute
 
@@ -805,7 +805,7 @@ You place a magical command on a creature that you can see within range, forcing
 
 ## Raise Dead
 
-_5th-level Necromancy_
+_5th-level necromancy_
 
 __Casting Time__ 1 hour
 
