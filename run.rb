@@ -501,7 +501,19 @@ wizard = [
   'Wish'
 ]
 
+each_level = {"0" => [], "1" => [], "2" => [], "3" => [], "4" => [], "5" => [], "6" => [], "7" => [], "8" => [], "9" => []}
+results.each { |spell| each_level[spell['data']['Level']] << spell['name'] }
+each_level.each_value { |l| l.sort_by!{ |e| e.downcase } }
+# all.sort! do |a,b|
+#   spellA = results.detect { |spell| spell['name'] == a }
+#   spellB = results.detect { |spell| spell['name'] == b }
+#   spellA['data']['Level'] <=> spellB['data']['Level']
+# end
+all = []
+each_level.each_value { |l| all.concat(l) }
 
+
+File.write('all.md', create_md(results, all))
 cleric_markdown = create_md(results, light_cleric)
 # puts cleric_markdown
 File.write('light_cleric.md', cleric_markdown)
