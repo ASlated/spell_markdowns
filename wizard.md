@@ -1,7 +1,7 @@
 # Cantrips
 ## Acid Splash
 
-_Conjuration_
+_Conjuration cantrip_
 
 __Casting Time__ 1 action
 
@@ -17,7 +17,7 @@ You hurl a bubble of acid. Choose one creature within range, or choose two creat
 
 ## Blade Ward
 
-_Abjuration_
+_Abjuration cantrip_
 
 __Casting Time__ 1 action
 
@@ -31,7 +31,7 @@ You extend your hand and trace a sigil of warding in the air. Until the end of y
 
 ## Chill Touch
 
-_Necromancy_
+_Necromancy cantrip_
 
 __Casting Time__ 1 action
 
@@ -49,7 +49,7 @@ You create a ghostly, skeletal hand in the space of a creature within range. Mak
 
 ## Dancing Lights
 
-_Evocation_
+_Evocation cantrip_
 
 __Casting Time__ 1 action
 
@@ -65,7 +65,7 @@ You create up to four torch-sized lights within range, making them appear as tor
 
 ## Fire Bolt
 
-_Evocation_
+_Evocation cantrip_
 
 __Casting Time__ 1 action
 
@@ -82,7 +82,7 @@ You hurl a mote of fire at a creature or object within range. Make a ranged spel
 
 ## Friends
 
-_Enchantment_
+_Enchantment cantrip_
 
 __Casting Time__ 1 action
 
@@ -96,7 +96,7 @@ For the duration, you have advantage on all Charisma checks directed at one crea
 
 ## Light
 
-_Evocation_
+_Evocation cantrip_
 
 __Casting Time__ 1 action
 
@@ -112,7 +112,7 @@ You touch one object that is no larger than 10 feet in any dimension. Until the 
 
 ## Mage Hand
 
-_Conjuration_
+_Conjuration cantrip_
 
 __Casting Time__ 1 action
 
@@ -130,7 +130,7 @@ A spectral, floating hand appears at a point you choose within range. The hand l
 
 ## Mending
 
-_Transmutation_
+_Transmutation cantrip_
 
 __Casting Time__ 1 minute
 
@@ -146,7 +146,7 @@ This spell repairs a single break or tear in an object you touch, such as broken
 
 ## Message
 
-_Transmutation_
+_Transmutation cantrip_
 
 __Casting Time__ 1 action
 
@@ -162,7 +162,7 @@ You point your finger toward a creature within range and whisper a message. The 
 
 ## Minor Illusion
 
-_Illusion_
+_Illusion cantrip_
 
 __Casting Time__ 1 action
 
@@ -182,7 +182,7 @@ You create a sound or an image of an object within range that lasts for the dura
 
 ## Poison Spray
 
-_Conjuration_
+_Conjuration cantrip_
 
 __Casting Time__ 1 action
 
@@ -198,7 +198,7 @@ You extend your hand toward a creature you can see  within range and project a p
 
 ## Prestidigitation
 
-_Transmutation_
+_Transmutation cantrip_
 
 __Casting Time__ 1 action
 
@@ -226,7 +226,7 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 
 ## Ray of Frost
 
-_Evocation_
+_Evocation cantrip_
 
 __Casting Time__ 1 action
 
@@ -242,7 +242,7 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 
 ## Shocking Grasp
 
-_Evocation_
+_Evocation cantrip_
 
 __Casting Time__ 1 action
 
@@ -258,7 +258,7 @@ Lightning springs from your hand to deliver a shock to a creature you try to tou
 
 ## True Strike
 
-_Divination_
+_Divination cantrip_
 
 __Casting Time__ 1 action
 
@@ -273,7 +273,7 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 # Level 1 Spells
 ## Alarm
 
-_Abjuration_
+_1st-level Abjuration_
 
 __Casting Time__ 1 minute
 
@@ -291,7 +291,7 @@ You set an alarm against unwanted intrusion. Choose a door, a window, or an area
 
 ## Burning Hands
 
-_Evocation_
+_1st-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -309,7 +309,7 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 
 ## Charm Person
 
-_Enchantment_
+_1st-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -325,7 +325,7 @@ You attempt to charm a humanoid you can see within range. It must make a Wisdom 
 
 ## Chromatic Orb
 
-_Evocation_
+_1st-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -339,7 +339,7 @@ You hurl a 4-inch-diameter sphere of energy at a creature that you can see withi
 
 ## Color Spray
 
-_Illusion_
+_1st-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -357,7 +357,7 @@ A dazzling array of flashing, colored light springs from your hand. Roll 6d10, t
 
 ## Comprehend Languages
 
-_Divination_
+_1st-level Divination_
 
 __Casting Time__ 1 action
 
@@ -374,7 +374,7 @@ For the duration, you understand the literal meaning of any spoken language that
 
 ## Detect Magic
 
-_Divination_
+_1st-level Divination_
 
 __Casting Time__ 1 action
 
@@ -390,7 +390,7 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 
 ## Disguise Self
 
-_Illusion_
+_1st-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -408,7 +408,7 @@ You make yourself, including your clothing, armor, weapons, and other belongings
 
 ## Expeditious Retreat
 
-_Transmutation_
+_1st-level Transmutation_
 
 __Casting Time__ 1 bonus action
 
@@ -422,7 +422,7 @@ This spell allows you to move at an incredible pace. When you cast this spell, a
 
 ## False Life
 
-_Necromancy_
+_1st-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -438,7 +438,7 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4+4 tempora
 
 ## Feather Fall
 
-_Transmutation_
+_1st-level Transmutation_
 
 __Casting Time__ 1 reaction
 
@@ -452,7 +452,7 @@ Reaction - When you or a creature within 60 feet of you falls Choose up to five 
 
 ## Find Familiar
 
-_Conjuration_
+_1st-level Conjuration_
 
 __Casting Time__ 1 hour
 
@@ -478,7 +478,7 @@ You gain the service of a familiar, a spirit that takes an animal form you choos
 
 ## Fog Cloud
 
-_Conjuration_
+_1st-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -494,7 +494,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 ## Grease
 
-_Conjuration_
+_1st-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -510,7 +510,7 @@ Slick grease covers the ground in a 10-foot square centered on a point within ra
 
 ## Identify
 
-_Divination_
+_1st-level Divination_
 
 __Casting Time__ 1 minute
 
@@ -526,7 +526,7 @@ You choose one object that you must touch throughout the casting of the spell. I
 
 ## Illusionary Script
 
-_Illusion_
+_1st-level Illusion_
 
 __Casting Time__ 1 minute
 
@@ -543,7 +543,7 @@ A creature with truesight can read the hidden message.
 
 ## Jump
 
-_Transmutation_
+_1st-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -557,7 +557,7 @@ You touch a creature. The creature's jump distance is tripled until the spell en
 
 ## Longstrider
 
-_Transmutation_
+_1st-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -573,7 +573,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 
 ## Mage Armor
 
-_Abjuration_
+_1st-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -587,7 +587,7 @@ You touch a willing creature who isn't wearing armor, and a protective magical f
 
 ## Magic Missile
 
-_Evocation_
+_1st-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -603,7 +603,7 @@ You create three glowing darts of magical force. Each dart hits a creature of yo
 
 ## Protection from Evil and Good
 
-_Abjuration_
+_1st-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -619,7 +619,7 @@ Until the spell ends, one willing creature you touch is protected against certai
 
 ## Ray of Sickness
 
-_Necromancy_
+_1st-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -634,7 +634,7 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 
 ## Shield
 
-_Abjuration_
+_1st-level Abjuration_
 
 __Casting Time__ 1 reaction
 
@@ -648,7 +648,7 @@ An invisible barrier of magical force appears and protects you. Until the start 
 
 ## Silent Image
 
-_Illusion_
+_1st-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -666,7 +666,7 @@ You create the image of an object, a creature, or some other visible phenomenon 
 
 ## Sleep
 
-_Enchantment_
+_1st-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -686,7 +686,7 @@ This spell sends creatures into a magical slumber. Roll 5d8, the total is how ma
 
 ## Tasha's Hideous Laughter
 
-_Enchantment_
+_1st-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -701,7 +701,7 @@ At the end of each of its turns, and each time it takes damage, the target can m
 
 ## Tenser's Floating Disk
 
-_Conjuration_
+_1st-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -717,7 +717,7 @@ If you move more than 100 feet from the disk (typically because it can't move ar
 
 ## Thunderwave
 
-_Evocation_
+_1st-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -735,7 +735,7 @@ A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube 
 
 ## Unseen Servant
 
-_Conjuration_
+_1st-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -753,7 +753,7 @@ This spell creates an invisible, mindless, shapeless force that performs simple 
 
 ## Witch Bolt
 
-_Evocation_
+_1st-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -769,7 +769,7 @@ At Higher Levels. When you cast this spell using a spell slot of 2nd level or hi
 # Level 2 Spells
 ## Alter Self
 
-_Transmutation_
+_2nd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -789,7 +789,7 @@ You assume a different form. When you cast the spell, choose one of the followin
 
 ## Arcane Lock
 
-_Abjuration_
+_2nd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -805,7 +805,7 @@ You touch a closed door, window, gate, chest, or other entryway, and it becomes 
 
 ## Blindness/Deafness
 
-_Necromancy_
+_2nd-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -820,7 +820,7 @@ At Higher Levels. When you cast this spell using a spell slot of 3rd level or hi
 
 ## Blur
 
-_Illusion_
+_2nd-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -834,7 +834,7 @@ Your body becomes blurred, shifting and wavering to all who can see you. For the
 
 ## Cloud of Daggers
 
-_Conjuration_
+_2nd-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -848,7 +848,7 @@ You fill the air with spinning daggers in a cube 5 feet on each side, centered o
 
 ## Continual Flame
 
-_Evocation_
+_2nd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -862,7 +862,7 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 
 ## Crown of Madness
 
-_Enchantment_
+_2nd-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -879,7 +879,7 @@ On your subsequent turns, you must use your action to maintain control over the 
 
 ## Darkness
 
-_Evocation_
+_2nd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -897,7 +897,7 @@ Magical darkness spreads from a point you choose within range to fill a 15-foot 
 
 ## Darkvision
 
-_Transmutation_
+_2nd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -911,7 +911,7 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 
 ## Detect Thoughts
 
-_Divination_
+_2nd-level Divination_
 
 __Casting Time__ 1 action
 
@@ -933,7 +933,7 @@ For the duration, you can read the thoughts of certain creatures. When you cast 
 
 ## Enlarge Reduce
 
-_Transmutation_
+_2nd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -953,7 +953,7 @@ You cause a creature or an object you can see within range to grow larger or sma
 
 ## Flaming Sphere
 
-_Conjuration_
+_2nd-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -973,7 +973,7 @@ A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice w
 
 ## Gentle Repose
 
-_Necromancy_
+_2nd-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -989,7 +989,7 @@ You touch a corpse or other remains. For the duration, the target is protected f
 
 ## Gust of Wind
 
-_Evocation_
+_2nd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1009,7 +1009,7 @@ A line of strong wind 60 feet long and 10 feet wide blasts from you in a directi
 
 ## Hold Person
 
-_Enchantment_
+_2nd-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -1025,7 +1025,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 ## Invisibility
 
-_Illusion_
+_2nd-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -1041,7 +1041,7 @@ A creature you touch becomes invisible until the spell ends. Anything the target
 
 ## Knock
 
-_Transmutation_
+_2nd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1061,7 +1061,7 @@ Choose an object that you can see within range. The object can be a door, a box,
 
 ## Levitate
 
-_Transmutation_
+_2nd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1079,7 +1079,7 @@ One creature or object of your choice that you can see within range rises vertic
 
 ## Locate Object
 
-_Divination_
+_2nd-level Divination_
 
 __Casting Time__ 1 action
 
@@ -1097,7 +1097,7 @@ Describe or name an object that is familiar to you. You sense the direction to t
 
 ## Magic Mouth
 
-_Illusion_
+_2nd-level Illusion_
 
 __Casting Time__ 1 minute
 
@@ -1115,7 +1115,7 @@ You implant a message within an object in range, a message that is uttered when 
 
 ## Magic Weapon
 
-_Transmutation_
+_2nd-level Transmutation_
 
 __Casting Time__ 1 bonus action
 
@@ -1131,7 +1131,7 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 ## Melf's Acid Arrow
 
-_Evocation_
+_2nd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1146,7 +1146,7 @@ At Higher Levels. When you cast this spell using a spell slot of 3rd level or hi
 
 ## Mirror Image
 
-_Illusion_
+_2nd-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -1168,7 +1168,7 @@ Three illusory duplicates of yourself appear in your space. Until the spell ends
 
 ## Misty Step
 
-_Conjuration_
+_2nd-level Conjuration_
 
 __Casting Time__ 1 bonus action
 
@@ -1182,7 +1182,7 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 ## Nystul's Magic Aura
 
-_Illusion_
+_2nd-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -1199,7 +1199,7 @@ Mask.You change the way the target appears to spells and magical effects that de
 
 ## Phantasmal Force
 
-_Illusion_
+_2nd-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -1217,7 +1217,7 @@ An affected target is so convinced of the phantasm's reality that it can even ta
 
 ## Ray of Enfeeblement
 
-_Necromancy_
+_2nd-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -1233,7 +1233,7 @@ A black beam of enervating energy springs from your finger toward a creature wit
 
 ## Rope Trick
 
-_Transmutation_
+_2nd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1253,7 +1253,7 @@ You touch a length of rope that is up to 60 feet long. One end of the rope then 
 
 ## Scorching Ray
 
-_Evocation_
+_2nd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1271,7 +1271,7 @@ You create three rays of fire and hurl them at targets within range. You can hur
 
 ## See Invisibility
 
-_Divination_
+_2nd-level Divination_
 
 __Casting Time__ 1 action
 
@@ -1285,7 +1285,7 @@ For the duration, you see invisible creatures and objects as if they were visibl
 
 ## Shatter
 
-_Evocation_
+_2nd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1303,7 +1303,7 @@ A sudden loud ringing noise, painfully intense, erupts from a point of your choi
 
 ## Spider Climb
 
-_Transmutation_
+_2nd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1317,7 +1317,7 @@ Until the spell ends, one willing creature you touch gains the ability to move u
 
 ## Suggestion
 
-_Enchantment_
+_2nd-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -1337,7 +1337,7 @@ You suggest a course of activity (limited to a sentence or two) and magically in
 
 ## Web
 
-_Conjuration_
+_2nd-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -1360,7 +1360,7 @@ You conjure a mass of thick, sticky webbing at a point of your choice within ran
 # Level 3 Spells
 ## Animate Dead
 
-_Necromancy_
+_3rd-level Necromancy_
 
 __Casting Time__ 1 minute
 
@@ -1380,7 +1380,7 @@ This spell creates an undead servant. Choose a pile of bones or a corpse of a Me
 
 ## Bestow Curse
 
-_Necromancy_
+_3rd-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -1406,7 +1406,7 @@ You touch a creature, and that creature must succeed on a Wisdom saving throw or
 
 ## Blink
 
-_Transmutation_
+_3rd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1422,7 +1422,7 @@ Roll a d20 at the end of each of your turns for the duration of the spell. On a 
 
 ## Clairvoyance
 
-_Divination_
+_3rd-level Divination_
 
 __Casting Time__ 10 minutes
 
@@ -1440,7 +1440,7 @@ You create an invisible sensor within range in a location familiar to you (a pla
 
 ## Counterspell
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 reaction, which you take when you see a creature within 60 feet of you casting a spell
 
@@ -1456,7 +1456,7 @@ You attempt to interrupt a creature in the process of casting a spell. If the cr
 
 ## Dispel Magic
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -1472,7 +1472,7 @@ Choose any creature, object, or magical effect within range. Any spell of 3rd le
 
 ## Fear
 
-_Illusion_
+_3rd-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -1488,7 +1488,7 @@ You project a phantasmal image of a creature's worst fears. Each creature in a 3
 
 ## Feign Death
 
-_Necromancy_
+_3rd-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -1503,7 +1503,7 @@ For the spell's duration, or until you use an action to touch the target appears
 
 ## Fireball
 
-_Evocation_
+_3rd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1521,7 +1521,7 @@ A bright streak flashes from your pointing finger to a point you choose within r
 
 ## Fly
 
-_Transmutation_
+_3rd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1537,7 +1537,7 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 
 ## Gaseous Form
 
-_Transmutation_
+_3rd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1555,7 +1555,7 @@ You transform a willing creature you touch, along with everything it's wearing a
 
 ## Glyph of Warding
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 hour
 
@@ -1583,7 +1583,7 @@ When you cast this spell, you inscribe a glyph that harms other creatures, eithe
 
 ## Haste
 
-_Transmutation_
+_3rd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1599,7 +1599,7 @@ Choose a willing creature that you can see within range. Until the spell ends, t
 
 ## Hypnotic Pattern
 
-_Illusion_
+_3rd-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -1615,7 +1615,7 @@ You create a twisting pattern of colors that weaves through the air inside a 30-
 
 ## Leomund's Tiny Hut
 
-_Evocation_
+_3rd-level Evocation_
 
 __Casting Time__ 1 minute
 
@@ -1631,7 +1631,7 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 
 ## Lightning Bolt
 
-_Evocation_
+_3rd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1649,7 +1649,7 @@ A stroke of lightning forming a line of 100 feet long and 5 feet wide blasts out
 
 ## Magic Circle
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 minute
 
@@ -1675,7 +1675,7 @@ You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on
 
 ## Major Image
 
-_Illusion_
+_3rd-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -1695,7 +1695,7 @@ You create the image of an object, a creature, or some other visible phenomenon 
 
 ## Nondetection
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -1709,7 +1709,7 @@ For the duration, you hide a target that you touch from divination magic. The ta
 
 ## Phantom Steed
 
-_Illusion_
+_3rd-level Illusion_
 
 __Casting Time__ 1 minute
 
@@ -1725,7 +1725,7 @@ A Large quasi-real, horse-like creature appears on the ground in an unoccupied s
 
 ## Protection from Energy
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -1739,7 +1739,7 @@ For the duration, the willing creature you touch has resistance to one damage ty
 
 ## Remove Curse
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -1753,7 +1753,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 ## Sending
 
-_Evocation_
+_3rd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1769,7 +1769,7 @@ You send a short message of twenty-five words or less to a creature with you are
 
 ## Sleet Storm
 
-_Conjuration_
+_3rd-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -1787,7 +1787,7 @@ Until the spell ends, freezing rain and sleet fall in a 20-foot-tall cylinder wi
 
 ## Slow
 
-_Transmutation_
+_3rd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1807,7 +1807,7 @@ You alter time around up to six creatures of your choice in a 40-foot cube withi
 
 ## Stinking Cloud
 
-_Conjuration_
+_3rd-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -1825,7 +1825,7 @@ You create a 20-foot-radius sphere of yellow, nauseating gas centered on a point
 
 ## Tongues
 
-_Divination_
+_3rd-level Divination_
 
 __Casting Time__ 1 action
 
@@ -1839,7 +1839,7 @@ This spell grants the creature you touch the ability to understand any spoken la
 
 ## Vampiric Touch
 
-_Necromancy_
+_3rd-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -1855,7 +1855,7 @@ The touch of your shadow-wreathed hand can siphon force from others to heal your
 
 ## Water Breathing
 
-_Transmutation_
+_3rd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1870,7 +1870,7 @@ This spell grants up to ten willing creatures you can see within range the abili
 # Level 4 Spells
 ## Arcane Eye
 
-_Divination_
+_4th-level Divination_
 
 __Casting Time__ 1 action
 
@@ -1888,7 +1888,7 @@ You create an invisible, magical eye within range that hovers in the air for the
 
 ## Banishment
 
-_Abjuration_
+_4th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -1908,7 +1908,7 @@ You attempt to send one creature that you can see within range to another place 
 
 ## Blight
 
-_Necromancy_
+_4th-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -1928,7 +1928,7 @@ Necromantic energy washes over a creature of your choice that you can see within
 
 ## Confusion
 
-_Enchantment_
+_4th-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -1956,7 +1956,7 @@ This spell assaults and twists creatures' minds, spawning delusions and provokin
 
 ## Conjure Minor Elementals
 
-_Conjuration_
+_4th-level Conjuration_
 
 __Casting Time__ 1 minute
 
@@ -1984,7 +1984,7 @@ You summon elementals that appear in unoccupied spaces that you can see within r
 
 ## Control Water
 
-_Transmutation_
+_4th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -2006,7 +2006,7 @@ Until the spell ends, you control any freestanding water inside an area you choo
 
 ## Dimension Door
 
-_Conjuration_
+_4th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -2024,7 +2024,7 @@ You teleport yourself from your current location to any other spot within range.
 
 ## Evard's Black Tentacles
 
-_Conjuration_
+_4th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -2039,7 +2039,7 @@ When a creature enters the affected area for the first time on a turn or starts 
 
 ## Fabricate
 
-_Transmutation_
+_4th-level Transmutation_
 
 __Casting Time__ 10 minutes
 
@@ -2057,7 +2057,7 @@ You convert raw materials into products of the same material. For example, you c
 
 ## Fire Shield
 
-_Evocation_
+_4th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -2075,7 +2075,7 @@ Thin and wispy flames wreathe your body for the duration, shedding bright light 
 
 ## Greater Invisibility
 
-_Illusion_
+_4th-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -2089,7 +2089,7 @@ You or a creature you touch becomes invisible until the spell ends. Anything the
 
 ## Hallucinatory Terrain
 
-_Illusion_
+_4th-level Illusion_
 
 __Casting Time__ 10 minutes
 
@@ -2106,7 +2106,7 @@ You make natural terrain in a 150-foot cube in range look, sound, and smell like
 
 ## Ice Storm
 
-_Evocation_
+_4th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -2124,7 +2124,7 @@ A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high c
 
 ## Leomund's Secret Chest
 
-_Conjuration_
+_4th-level Conjuration_
 
 __Casting Time__ 10 minutes
 
@@ -2140,7 +2140,7 @@ After 60 days, there is a cumulative 5 percent chance per day that the spell's e
 
 ## Locate Creature
 
-_Divination_
+_4th-level Divination_
 
 __Casting Time__ 1 action
 
@@ -2158,7 +2158,7 @@ Describe or name a creature that is familiar to you. You sense the direction to 
 
 ## Mordenkainen's Faithful Hound
 
-_Conjuration_
+_4th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -2174,7 +2174,7 @@ At the start of each of your turos, the hound attempts to bite one creature with
 
 ## Mordenkainen's Private Sanctum
 
-_Abjuration_
+_4th-level Abjuration_
 
 __Casting Time__ 10 minutes
 
@@ -2197,7 +2197,7 @@ At Higher Levels. When you cast this spell using a spell slot of 5th level or hi
 
 ## Otiluke's Resilient Sphere
 
-_Evocation_
+_4th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -2214,7 +2214,7 @@ A disintegrate spell targeting the globe destroys it without harming anything in
 
 ## Phantasmal Killer
 
-_Illusion_
+_4th-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -2230,7 +2230,7 @@ You tap into the nightmares of a creature you can see within range and create an
 
 ## Polymorph
 
-_Transmutation_
+_4th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -2252,7 +2252,7 @@ This spell transforms a creature with at least 1 hit point that you can see with
 
 ## Stone Shape
 
-_Transmutation_
+_4th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -2266,7 +2266,7 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 ## Stoneskin
 
-_Abjuration_
+_4th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -2280,7 +2280,7 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 
 ## Wall of Fire
 
-_Evocation_
+_4th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -2301,7 +2301,7 @@ You create a wall of fire on a solid surface within range. You can make the wall
 # Level 5 Spells
 ## Animate Objects
 
-_Transmutation_
+_5th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -2335,7 +2335,7 @@ Objects come to life at your command. Choose up to ten nonmagical objects within
 
 ## Bigby's Hand
 
-_Evocation_
+_5th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -2349,7 +2349,7 @@ You create a Large hand of shimmering, translucent force in an unoccupied space 
 
 ## Cloudkill
 
-_Conjuration_
+_5th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -2369,7 +2369,7 @@ You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a 
 
 ## Cone of Cold
 
-_Evocation_
+_5th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -2387,7 +2387,7 @@ A blast of cold air erupts from your hands. Each creature in a 60-foot cone must
 
 ## Conjure Elemental
 
-_Conjuration_
+_5th-level Conjuration_
 
 __Casting Time__ 1 minute
 
@@ -2407,7 +2407,7 @@ You call forth an elemental servant. Choose an area of air, earth, fire, or wate
 
 ## Contact Other Plane
 
-_Divination_
+_5th-level Divination_
 
 __Casting Time__ 1 minute
 
@@ -2423,7 +2423,7 @@ You mentally contact a demigod, the spirit of a long-dead sage, or some other my
 
 ## Creation
 
-_Illusion_
+_5th-level Illusion_
 
 __Casting Time__ 1 minute
 
@@ -2450,7 +2450,7 @@ Adamantine/Mithral - 1 minute
 
 ## Dominate Person
 
-_Enchantment_
+_5th-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -2472,7 +2472,7 @@ You attempt to beguile a humanoid that you can see within range. It must succeed
 
 ## Dream
 
-_Illusion_
+_5th-level Illusion_
 
 __Casting Time__ 1 minute
 
@@ -2492,7 +2492,7 @@ This spell shapes a creature's dreams. Choose a creature known to you as the tar
 
 ## Geas
 
-_Enchantment_
+_5th-level Enchantment_
 
 __Casting Time__ 1 minute
 
@@ -2512,7 +2512,7 @@ You place a magical command on a creature that you can see within range, forcing
 
 ## Hold Monster
 
-_Enchantment_
+_5th-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -2528,7 +2528,7 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 ## Legend Lore
 
-_Divination_
+_5th-level Divination_
 
 __Casting Time__ 10 minutes
 
@@ -2544,7 +2544,7 @@ Name or describe a person, place, or object. The spell brings to your mind a bri
 
 ## Mislead
 
-_Illusion_
+_5th-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -2560,7 +2560,7 @@ You become invisible at the same time that an illusory double of you appears whe
 
 ## Modify Memory
 
-_Enchantment_
+_5th-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -2584,7 +2584,7 @@ You attempt to reshape another creature's memories. One creature that you can se
 
 ## Passwall
 
-_Transmutation_
+_5th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -2600,7 +2600,7 @@ A passage appears at a point of your choice that you can see on a wooden, plaste
 
 ## Planar Binding
 
-_Abjuration_
+_5th-level Abjuration_
 
 __Casting Time__ 1 hour
 
@@ -2618,7 +2618,7 @@ With this spell, you attempt to bind a celestial, an elemental, a fey, or a fien
 
 ## Rary's Telepathic Bond
 
-_Divination_
+_5th-level Divination_
 
 __Casting Time__ 1 action
 
@@ -2633,7 +2633,7 @@ Until the spell ends, the targets can communicate telepathically through the bon
 
 ## Scrying
 
-_Divination_
+_5th-level Divination_
 
 __Casting Time__ 10 minutes
 
@@ -2668,7 +2668,7 @@ Familiar (you know the target well) - -5
 
 ## Seeming
 
-_Illusion_
+_5th-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -2688,7 +2688,7 @@ This spell allows you to change the appearance of any number of creatures that y
 
 ## Telekinesis
 
-_Transmutation_
+_5th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -2712,7 +2712,7 @@ You gain the ability to move or manipulate creatures or objects by thought. When
 
 ## Teleportation Circle
 
-_Conjuration_
+_5th-level Conjuration_
 
 __Casting Time__ 1 minute
 
@@ -2730,7 +2730,7 @@ As you cast the spell, you draw a 10-foot-diameter circle on the ground inscribe
 
 ## Wall of Force
 
-_Evocation_
+_5th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -2746,7 +2746,7 @@ An invisible wall of force springs into existence at a point you choose within r
 
 ## Wall of Stone
 
-_Evocation_
+_5th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -2771,7 +2771,7 @@ A nonmagical wall of solid stone springs into existence at a point you choose wi
 # Level 6 Spells
 ## Arcane Gate
 
-_Conjuration_
+_6th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -2787,7 +2787,7 @@ Any creature or object entering the portal exits from the other portal as if the
 
 ## Chain Lightning
 
-_Evocation_
+_6th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -2805,7 +2805,7 @@ You create a bolt of lightning that arcs toward a target of your choice that you
 
 ## Circle of Death
 
-_Necromancy_
+_6th-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -2821,7 +2821,7 @@ A sphere of negative energy ripples out in a 60-foot-radius sphere from a point 
 
 ## Contingency
 
-_Evocation_
+_6th-level Evocation_
 
 __Casting Time__ 10 minutes
 
@@ -2839,7 +2839,7 @@ Choose a spell of or lower that you can cast, that has a casting time of 1 actio
 
 ## Create Undead
 
-_Necromancy_
+_6th-level Necromancy_
 
 __Casting Time__ 1 minute
 
@@ -2859,7 +2859,7 @@ You can cast this spell only at night. Choose up to three corpses of Medium or S
 
 ## Disintegrate
 
-_Transmutation_
+_6th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -2881,7 +2881,7 @@ A thin green ray springs from your pointing finger to a target that you can see 
 
 ## Drawmij's Instant Summons
 
-_Conjuration_
+_6th-level Conjuration_
 
 __Casting Time__ 1 minute
 
@@ -2898,7 +2898,7 @@ Dispel magic or a similar effect successfully appliedto the sapphire ends this s
 
 ## Eyebite
 
-_Necromancy_
+_6th-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -2918,7 +2918,7 @@ For the spell's duration, your eyes become an inky void imbued with dread power.
 
 ## Flesh to Stone
 
-_Transmutation_
+_6th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -2938,7 +2938,7 @@ You attempt to turn one creature that you can see within range into stone. If th
 
 ## Globe of Invulnerability
 
-_Abjuration_
+_6th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -2956,7 +2956,7 @@ An immobile, faintly shimmering barrier springs into existence in a 10-foot radi
 
 ## Guards and Wards
 
-_Abjuration_
+_6th-level Abjuration_
 
 __Casting Time__ 10 minutes
 
@@ -2994,7 +2994,7 @@ You create a ward that protects up to 2,500 square feet of floor space (an area 
 
 ## Magic Jar
 
-_Necromancy_
+_6th-level Necromancy_
 
 __Casting Time__ 1 minute
 
@@ -3020,7 +3020,7 @@ Your body falls into a catatonic state as your soul leaves it and enters the con
 
 ## Mass Suggestion
 
-_Enchantment_
+_6th-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -3042,7 +3042,7 @@ You suggest a course of activity (limited to a sentence or two) and magically in
 
 ## Move Earth
 
-_Transmutation_
+_6th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -3064,7 +3064,7 @@ Choose an area of terrain no larger than 40 feet on a side within range. You can
 
 ## Otiluke's Freezing Sphere
 
-_Evocation_
+_6th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -3082,7 +3082,7 @@ At Higher Levels. When you cast this spell using a spell slot of 7th level or hi
 # Level 2 Spells
 ## Otto's Irresistible Dance
 
-_Enchantment_
+_2nd-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -3098,7 +3098,7 @@ A dancing creature must use all its movement to dance without leaving its space 
 # Level 6 Spells
 ## Programmed Illusion
 
-_Illusion_
+_6th-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -3118,7 +3118,7 @@ You create an illusion of an object, a creature, or some other visible phenomeno
 
 ## Sunbeam
 
-_Evocation_
+_6th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -3136,7 +3136,7 @@ A beam of brilliant light flashes out from your hand in a 5-foot-wide, 60-foot-l
 
 ## True Seeing
 
-_Divination_
+_6th-level Divination_
 
 __Casting Time__ 1 action
 
@@ -3150,7 +3150,7 @@ This spell gives the willing creature you touch the ability to see things as the
 
 ## Wall of Ice
 
-_Evocation_
+_6th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -3171,7 +3171,7 @@ You create a wall of ice on a solid surface within range. You can form it into a
 # Level 7 Spells
 ## Delayed Blast Fireball
 
-_Evocation_
+_7th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -3193,7 +3193,7 @@ A beam of yellow light flashes from your pointing finger, then condenses to ling
 
 ## Etherealness
 
-_Transmutation_
+_7th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -3217,7 +3217,7 @@ You step into the border regions of the Ethereal Plane, in the area where it ove
 
 ## Finger of Death
 
-_Necromancy_
+_7th-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -3233,7 +3233,7 @@ You send negative energy coursing through a creature that you can see within ran
 
 ## Forcecage
 
-_Evocation_
+_7th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -3257,7 +3257,7 @@ An immobile, invisible, cube-shaped prison composed of magical force springs int
 
 ## Mirage Arcane
 
-_Illusion_
+_7th-level Illusion_
 
 __Casting Time__ 10 minutes
 
@@ -3277,7 +3277,7 @@ You make terrain in an area up to 1 mile square look, sound, smell, and even fee
 
 ## Mordenkainen's Magnificent Mansion
 
-_Conjuration_
+_7th-level Conjuration_
 
 __Casting Time__ 1 minute
 
@@ -3293,7 +3293,7 @@ You can create any floor plan you like, but the space can't exceed 50 cubes, eac
 
 ## Mordenkainen's Sword
 
-_Evocation_
+_7th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -3308,7 +3308,7 @@ When the sword appears, you make a melee spell attack against a target of your c
 
 ## Plane Shift
 
-_Conjuration_
+_7th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -3326,7 +3326,7 @@ You and up to eight willing creatures who link hands in a circle are transported
 
 ## Prismatic Spray
 
-_Evocation_
+_7th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -3356,7 +3356,7 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 ## Project Image
 
-_Illusion_
+_7th-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -3376,7 +3376,7 @@ You create an illusory copy of yourself that lasts for the duration. The copy ca
 
 ## Reverse Gravity
 
-_Transmutation_
+_7th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -3394,7 +3394,7 @@ This spell reverses gravity in a 50-foot-radius, 100-foot high cylinder centered
 
 ## Sequester
 
-_Transmutation_
+_7th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -3412,7 +3412,7 @@ By means of this spell, a willing creature or an object can be hidden away, safe
 
 ## Simulacrum
 
-_Illusion_
+_7th-level Illusion_
 
 __Casting Time__ 12 hours
 
@@ -3432,7 +3432,7 @@ You shape an illusory duplicate of one beast or humanoid that is within range fo
 
 ## Symbol
 
-_Abjuration_
+_7th-level Abjuration_
 
 __Casting Time__ 1 minute
 
@@ -3470,7 +3470,7 @@ When you cast this spell, you inscribe a harmful glyph either on a surface (such
 
 ## Teleport
 
-_Conjuration_
+_7th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -3508,7 +3508,7 @@ False Description - 01-50 - 51-100 - x - x
 # Level 8 Spells
 ## Antimagic Field
 
-_Abjuration_
+_8th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -3538,7 +3538,7 @@ A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divor
 
 ## Antipathy (Sympathy)
 
-_Enchantment_
+_8th-level Enchantment_
 
 __Casting Time__ 1 hour
 
@@ -3560,7 +3560,7 @@ This spell attracts or repels creatures of your choice. You target something wit
 
 ## Clone
 
-_Necromancy_
+_8th-level Necromancy_
 
 __Casting Time__ 1 hour
 
@@ -3576,7 +3576,7 @@ This spell grows an inert duplicate of a living creature as a safeguard against 
 
 ## Control Weather
 
-_Transmutation_
+_8th-level Transmutation_
 
 __Casting Time__ 10 minutes
 
@@ -3616,7 +3616,7 @@ Stage 5 - Storm
 
 ## Demiplane
 
-_Conjuration_
+_8th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -3632,7 +3632,7 @@ You create a shadowy door on a flat solid surface that you can see within range.
 
 ## Dominate Monster
 
-_Enchantment_
+_8th-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -3654,7 +3654,7 @@ You attempt to beguile a creature that you can see within range. It must succeed
 
 ## Feeblemind
 
-_Enchantment_
+_8th-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -3674,7 +3674,7 @@ You blast the mind of a creature that you can see within range, attempting to sh
 
 ## Incendiary Cloud
 
-_Conjuration_
+_8th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -3692,7 +3692,7 @@ A swirling cloud of smoke shot through with white-hot embers appears in a 20-foo
 
 ## Maze
 
-_Conjuration_
+_8th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -3710,7 +3710,7 @@ You banish a creature that you can see within range into a labyrinthine demiplan
 
 ## Mind Blank
 
-_Abjuration_
+_8th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -3724,7 +3724,7 @@ Until the spell ends, one willing creature you touch is immune to psychic damage
 
 ## Power Word Stun
 
-_Enchantment_
+_8th-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -3740,7 +3740,7 @@ You speak a word of power that can overwhelm the mind of one creature you can se
 
 ## Sunburst
 
-_Evocation_
+_8th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -3758,7 +3758,7 @@ Brilliant sunlight flashes in a 60-foot radius centered on a point you choose wi
 
 ## Telepathy
 
-_Evocation_
+_8th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -3774,7 +3774,7 @@ Until the spell ends, you and the target can inslantaneously share words, images
 # Level 9 Spells
 ## Astral Projection
 
-_Necromancy_
+_9th-level Necromancy_
 
 __Casting Time__ 1 hour
 
@@ -3798,7 +3798,7 @@ You and up to eight willing creatures within range project your astral bodies in
 
 ## Foresight
 
-_Divination_
+_9th-level Divination_
 
 __Casting Time__ 1 minute
 
@@ -3814,7 +3814,7 @@ You touch a willing creature and bestow a limited ability to see into the immedi
 
 ## Gate
 
-_Conjuration_
+_9th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -3834,7 +3834,7 @@ You conjure a portal linking an unoccupied space you can see within range to a p
 
 ## Imprisonment
 
-_Abjuration_
+_9th-level Abjuration_
 
 __Casting Time__ 1 minute
 
@@ -3876,7 +3876,7 @@ You create a magical restraint to hold a creature that you can see within range.
 
 ## Meteor Swarm
 
-_Evocation_
+_9th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -3892,7 +3892,7 @@ Blazing orbs of fire plummet to the ground at four different points you can see 
 
 ## Power Word Kill
 
-_Enchantment_
+_9th-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -3906,7 +3906,7 @@ You utter a word of power that can compel one creature you can see within range 
 
 ## Prismatic Wall
 
-_Abjuration_
+_9th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -3940,7 +3940,7 @@ A shimmering, multicolored plane of light forms a vertical opaque wall - up to 9
 
 ## Shapechange
 
-_Transmutation_
+_9th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -3964,7 +3964,7 @@ You assume the form of a different creature for the duration. The new form can b
 
 ## Time Stop
 
-_Transmutation_
+_9th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -3980,7 +3980,7 @@ You briefly stop the flow of time for everyone but yourself. No time passes for 
 
 ## True Polymorph
 
-_Transmutation_
+_9th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -4010,7 +4010,7 @@ Choose one creature with at least 1 hit point or nonmagical object that you can 
 
 ## Weird
 
-_Illusion_
+_9th-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -4024,7 +4024,7 @@ Drawing on the deepest fears of a group of creatures, you create illusory creatu
 
 ## Wish
 
-_Conjuration_
+_9th-level Conjuration_
 
 __Casting Time__ 1 action
 

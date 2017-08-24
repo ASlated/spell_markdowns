@@ -1,7 +1,7 @@
 # Cantrips
 ## Guidance
 
-_Divination_
+_Divination cantrip_
 
 __Casting Time__ 1 action
 
@@ -15,7 +15,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 ## Light
 
-_Evocation_
+_Evocation cantrip_
 
 __Casting Time__ 1 action
 
@@ -31,7 +31,7 @@ You touch one object that is no larger than 10 feet in any dimension. Until the 
 
 ## Mending
 
-_Transmutation_
+_Transmutation cantrip_
 
 __Casting Time__ 1 minute
 
@@ -47,7 +47,7 @@ This spell repairs a single break or tear in an object you touch, such as broken
 
 ## Resistance
 
-_Abjuration_
+_Abjuration cantrip_
 
 __Casting Time__ 1 action
 
@@ -61,7 +61,7 @@ You touch one willing creature. Once before the spell ends, the target can roll 
 
 ## Sacred Flame
 
-_Evocation_
+_Evocation cantrip_
 
 __Casting Time__ 1 action
 
@@ -77,7 +77,7 @@ Flame-like radiance descends on a creature that you can see within range. The ta
 
 ## Spare the Dying
 
-_Necromancy_
+_Necromancy cantrip_
 
 __Casting Time__ 1 action
 
@@ -91,7 +91,7 @@ You touch a living creature that has 0 hit points. The  creature becomes stable.
 
 ## Thaumaturgy
 
-_Transmutation_
+_Transmutation cantrip_
 
 __Casting Time__ 1 action
 
@@ -120,7 +120,7 @@ You manifest a minor wonder, a sign of supernatural power, within range. You cre
 # Level 1 Spells
 ## Bane
 
-_Enchantment_
+_1st-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -136,7 +136,7 @@ Up to three creatures of your choice that you can see within range must make Cha
 
 ## Bless
 
-_Enchantment_
+_1st-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -152,7 +152,7 @@ You bless up to three creatures of your choice within range. Whenever a target m
 
 ## Burning Hands
 
-_Evocation_
+_1st-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -170,7 +170,7 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 
 ## Command
 
-_Enchantment_
+_1st-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -198,7 +198,7 @@ You speak a one-word command to a creature you can see within range. The target 
 
 ## Create or Destroy Water
 
-_Transmutation_
+_1st-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -218,7 +218,7 @@ You either create or destroy water.
 
 ## Cure Wounds
 
-_Evocation_
+_1st-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -234,7 +234,7 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 ## Detect Evil and Good
 
-_Divination_
+_1st-level Divination_
 
 __Casting Time__ 1 action
 
@@ -248,7 +248,7 @@ For the duration, you know if there is an aberration, celestial, elemental, fey,
 
 ## Detect Magic
 
-_Divination_
+_1st-level Divination_
 
 __Casting Time__ 1 action
 
@@ -264,7 +264,7 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 
 ## Detect Poison and Disease
 
-_Divination_
+_1st-level Divination_
 
 __Casting Time__ 1 action
 
@@ -280,7 +280,7 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 
 ## Faerie Fire
 
-_Evocation_
+_1st-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -296,7 +296,7 @@ Each object in a 20-foot cube within range is outlined in blue, green, or violet
 
 ## Guiding Bolt
 
-_Evocation_
+_1st-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -312,7 +312,7 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 ## Healing Word
 
-_Evocation_
+_1st-level Evocation_
 
 __Casting Time__ 1 bonus action
 
@@ -328,7 +328,7 @@ A creature of your choice that you can see within range regains hit points equal
 
 ## Inflict Wounds
 
-_Necromancy_
+_1st-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -344,7 +344,7 @@ Make a melee spell attack against a creature you can reach. On a hit, the target
 
 ## Protection from Evil and Good
 
-_Abjuration_
+_1st-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -360,7 +360,7 @@ Until the spell ends, one willing creature you touch is protected against certai
 
 ## Purify Food and Drink
 
-_Transmutation_
+_1st-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -374,7 +374,7 @@ All nonmagical food and drink within a 5-foot-radius sphere centered on a point 
 
 ## Sanctuary
 
-_Abjuration_
+_1st-level Abjuration_
 
 __Casting Time__ 1 bonus action
 
@@ -390,7 +390,7 @@ You ward a creature within range against attack. Until the spell ends, any creat
 
 ## Shield of Faith
 
-_Abjuration_
+_1st-level Abjuration_
 
 __Casting Time__ 1 bonus action
 
@@ -405,7 +405,7 @@ A shimmering field appears and surrounds a creature of your choice within range,
 # Level 2 Spells
 ## Aid
 
-_Abjuration_
+_2nd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -421,7 +421,7 @@ Your spell bolsters your allies with toughness and resolve. Choose up to three c
 
 ## Augury
 
-_Divination_
+_2nd-level Divination_
 
 __Casting Time__ 1 minute
 
@@ -447,7 +447,7 @@ By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or 
 
 ## Blindness/Deafness
 
-_Necromancy_
+_2nd-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -462,7 +462,7 @@ At Higher Levels. When you cast this spell using a spell slot of 3rd level or hi
 
 ## Calm Emotions
 
-_Enchantment_
+_2nd-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -480,7 +480,7 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 
 ## Continual Flame
 
-_Evocation_
+_2nd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -494,7 +494,7 @@ A flame, equivalent in brightness to a torch, springs forth from an object that 
 
 ## Enhance Ability
 
-_Transmutation_
+_2nd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -522,7 +522,7 @@ You touch a creature and bestow upon it a magical enhancement. Choose one of the
 
 ## Find Traps
 
-_Divination_
+_2nd-level Divination_
 
 __Casting Time__ 1 action
 
@@ -538,7 +538,7 @@ You sense the presence of any trap within range that is within line of sight. A 
 
 ## Flaming Sphere
 
-_Conjuration_
+_2nd-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -558,7 +558,7 @@ A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice w
 
 ## Gentle Repose
 
-_Necromancy_
+_2nd-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -574,7 +574,7 @@ You touch a corpse or other remains. For the duration, the target is protected f
 
 ## Hold Person
 
-_Enchantment_
+_2nd-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -590,7 +590,7 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 
 ## Lesser Restoration
 
-_Abjuration_
+_2nd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -604,7 +604,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 ## Locate Object
 
-_Divination_
+_2nd-level Divination_
 
 __Casting Time__ 1 action
 
@@ -622,7 +622,7 @@ Describe or name an object that is familiar to you. You sense the direction to t
 
 ## Prayer of Healing
 
-_Evocation_
+_2nd-level Evocation_
 
 __Casting Time__ 10 minutes
 
@@ -638,7 +638,7 @@ Up to six creatures of your choice that you can see within range each regain hit
 
 ## Protection from Poison
 
-_Abjuration_
+_2nd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -654,7 +654,7 @@ You touch a creature. If it is poisoned, you neutralize the poison. If more than
 
 ## Scorching Ray
 
-_Evocation_
+_2nd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -672,7 +672,7 @@ You create three rays of fire and hurl them at targets within range. You can hur
 
 ## Silence
 
-_Illusion_
+_2nd-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -686,7 +686,7 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 
 ## Spiritual Weapon
 
-_Evocation_
+_2nd-level Evocation_
 
 __Casting Time__ 1 bonus action
 
@@ -706,7 +706,7 @@ You create a floating, spectral weapon within range that lasts for the duration 
 
 ## Warding Bond
 
-_Abjuration_
+_2nd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -722,7 +722,7 @@ This spell wards a willing creature you touch and creates a mystic connection be
 
 ## Zone of Truth
 
-_Enchantment_
+_2nd-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -739,7 +739,7 @@ You create a magical zone that guards against deception in a 15-foot-radius sphe
 # Level 3 Spells
 ## Animate Dead
 
-_Necromancy_
+_3rd-level Necromancy_
 
 __Casting Time__ 1 minute
 
@@ -759,7 +759,7 @@ This spell creates an undead servant. Choose a pile of bones or a corpse of a Me
 
 ## Beacon of Hope
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -773,7 +773,7 @@ This spell bestows hope and vitality. Choose any number of creatures within rang
 
 ## Bestow Curse
 
-_Necromancy_
+_3rd-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -799,7 +799,7 @@ You touch a creature, and that creature must succeed on a Wisdom saving throw or
 
 ## Clairvoyance
 
-_Divination_
+_3rd-level Divination_
 
 __Casting Time__ 10 minutes
 
@@ -817,7 +817,7 @@ You create an invisible sensor within range in a location familiar to you (a pla
 
 ## Create Food and Water
 
-_Conjuration_
+_3rd-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -831,7 +831,7 @@ You create 45 pounds of food and 30 gallons of water on the ground or in contain
 
 ## Daylight
 
-_Evocation_
+_3rd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -849,7 +849,7 @@ A 60-foot-radius sphere of light spreads out from a point you choose within rang
 
 ## Dispel Magic
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -865,7 +865,7 @@ Choose any creature, object, or magical effect within range. Any spell of 3rd le
 
 ## Feign Death
 
-_Necromancy_
+_3rd-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -880,7 +880,7 @@ For the spell's duration, or until you use an action to touch the target appears
 
 ## Fireball
 
-_Evocation_
+_3rd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -898,7 +898,7 @@ A bright streak flashes from your pointing finger to a point you choose within r
 
 ## Glyph of Warding
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 hour
 
@@ -926,7 +926,7 @@ When you cast this spell, you inscribe a glyph that harms other creatures, eithe
 
 ## Magic Circle
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 minute
 
@@ -952,7 +952,7 @@ You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on
 
 ## Mass Healing Word
 
-_Evocation_
+_3rd-level Evocation_
 
 __Casting Time__ 1 bonus action
 
@@ -968,7 +968,7 @@ As you call out words of restoration, up to six creatures of your choice that yo
 
 ## Meld into Stone
 
-_Transmutation_
+_3rd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -986,7 +986,7 @@ You step into a stone object or surface large enough to fully contain your body,
 
 ## Protection from Energy
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -1000,7 +1000,7 @@ For the duration, the willing creature you touch has resistance to one damage ty
 
 ## Remove Curse
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -1014,7 +1014,7 @@ At your touch, all curses affecting one creature or object end. If the object is
 
 ## Revivify
 
-_Necromancy_
+_3rd-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -1028,7 +1028,7 @@ You touch a creature that has died within the last minute. That creature returns
 
 ## Sending
 
-_Evocation_
+_3rd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1044,7 +1044,7 @@ You send a short message of twenty-five words or less to a creature with you are
 
 ## Speak with Dead
 
-_Necromancy_
+_3rd-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -1060,7 +1060,7 @@ You grant the semblance of life and intelligence to a corpse of your choice with
 
 ## Spirit Guardians
 
-_Conjuration_
+_3rd-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -1078,7 +1078,7 @@ You call forth spirits to protect you. They flit around you to a distance of 15 
 
 ## Tongues
 
-_Divination_
+_3rd-level Divination_
 
 __Casting Time__ 1 action
 
@@ -1092,7 +1092,7 @@ This spell grants the creature you touch the ability to understand any spoken la
 
 ## Water Walk
 
-_Transmutation_
+_3rd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1109,7 +1109,7 @@ This spell grants the ability to move across any liquid surface - such as water,
 # Level 4 Spells
 ## Banishment
 
-_Abjuration_
+_4th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -1129,7 +1129,7 @@ You attempt to send one creature that you can see within range to another place 
 
 ## Control Water
 
-_Transmutation_
+_4th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1151,7 +1151,7 @@ Until the spell ends, you control any freestanding water inside an area you choo
 
 ## Death Ward
 
-_Abjuration_
+_4th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -1165,7 +1165,7 @@ You touch a creature and grant it a measure of protection from death. The first 
 
 ## Divination
 
-_Divination_
+_4th-level Divination_
 
 __Casting Time__ 1 action
 
@@ -1183,7 +1183,7 @@ Your magic and an offering put you in contact with a god or a god's servants. Yo
 
 ## Freedom of Movement
 
-_Abjuration_
+_4th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -1199,7 +1199,7 @@ You touch a willing creature. For the duration, the target's movement is unaffec
 
 ## Guardian of Faith
 
-_Conjuration_
+_4th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -1215,7 +1215,7 @@ A Large spectral guardian appears and hovers for  the duration in an unoccupied 
 
 ## Locate Creature
 
-_Divination_
+_4th-level Divination_
 
 __Casting Time__ 1 action
 
@@ -1233,7 +1233,7 @@ Describe or name a creature that is familiar to you. You sense the direction to 
 
 ## Stone Shape
 
-_Transmutation_
+_4th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1247,7 +1247,7 @@ You touch a stone object of Medium size or smaller or a section of stone no more
 
 ## Wall of Fire
 
-_Evocation_
+_4th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1268,7 +1268,7 @@ You create a wall of fire on a solid surface within range. You can make the wall
 # Level 5 Spells
 ## Commune
 
-_Divination_
+_5th-level Divination_
 
 __Casting Time__ 1 minute
 
@@ -1286,7 +1286,7 @@ You contact your deity or a divine proxy and ask up to three questions that can 
 
 ## Contagion
 
-_Necromancy_
+_5th-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -1316,7 +1316,7 @@ Your touch inflicts disease. Make a melee spell attack against a creature within
 
 ## Dispel Evil and Good
 
-_Abjuration_
+_5th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -1334,7 +1334,7 @@ Shimmering energy surrounds and protects you from fey, undead, and creatures ori
 
 ## Flame Strike
 
-_Evocation_
+_5th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1350,7 +1350,7 @@ A vertical column of divine fire roars down from the heavens in a location you s
 
 ## Geas
 
-_Enchantment_
+_5th-level Enchantment_
 
 __Casting Time__ 1 minute
 
@@ -1370,7 +1370,7 @@ You place a magical command on a creature that you can see within range, forcing
 
 ## Greater Restoration
 
-_Abjuration_
+_5th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -1392,7 +1392,7 @@ You imbue a creature you touch with positive energy to undo a debilitating effec
 
 ## Hallow
 
-_Evocation_
+_5th-level Evocation_
 
 __Casting Time__ 24 hours
 
@@ -1430,7 +1430,7 @@ You touch a point and infuse an area around it with holy (or unholy) power. The 
 
 ## Insect Plague
 
-_Conjuration_
+_5th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -1448,7 +1448,7 @@ Swarming, biting locusts fill a 20-foot-radius sphere centered on a point you ch
 
 ## Legend Lore
 
-_Divination_
+_5th-level Divination_
 
 __Casting Time__ 10 minutes
 
@@ -1464,7 +1464,7 @@ Name or describe a person, place, or object. The spell brings to your mind a bri
 
 ## Mass Cure Wounds
 
-_Evocation_
+_5th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1480,7 +1480,7 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 
 ## Planar Binding
 
-_Abjuration_
+_5th-level Abjuration_
 
 __Casting Time__ 1 hour
 
@@ -1498,7 +1498,7 @@ With this spell, you attempt to bind a celestial, an elemental, a fey, or a fien
 
 ## Raise Dead
 
-_Necromancy_
+_5th-level Necromancy_
 
 __Casting Time__ 1 hour
 
@@ -1518,7 +1518,7 @@ You return a dead creature you touch to life, provided that it has been dead no 
 
 ## Scrying
 
-_Divination_
+_5th-level Divination_
 
 __Casting Time__ 10 minutes
 
@@ -1554,7 +1554,7 @@ Familiar (you know the target well) - -5
 # Level 6 Spells
 ## Blade Barrier
 
-_Evocation_
+_6th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1570,7 +1570,7 @@ You create a vertical wall of whirling, razor-sharp blades made of magical energ
 
 ## Create Undead
 
-_Necromancy_
+_6th-level Necromancy_
 
 __Casting Time__ 1 minute
 
@@ -1590,7 +1590,7 @@ You can cast this spell only at night. Choose up to three corpses of Medium or S
 
 ## Find the Path
 
-_Divination_
+_6th-level Divination_
 
 __Casting Time__ 1 minute
 
@@ -1606,7 +1606,7 @@ This spell allows you to find the shortest, most direct physical route to a spec
 
 ## Forbiddance
 
-_Abjuration_
+_6th-level Abjuration_
 
 __Casting Time__ 10 minutes
 
@@ -1626,7 +1626,7 @@ You create a ward against magical travel that protects up to 40,000 square feet 
 
 ## Harm
 
-_Necromancy_
+_6th-level Necromancy_
 
 __Casting Time__ 1 action
 
@@ -1640,7 +1640,7 @@ You unleash a virulent disease on a creature that you can see within range. The 
 
 ## Heal
 
-_Evocation_
+_6th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1656,7 +1656,7 @@ Choose a creature that you can see within range. A surge of positive energy wash
 
 ## Heroes' Feast
 
-_Conjuration_
+_6th-level Conjuration_
 
 __Casting Time__ 10 minutes
 
@@ -1672,7 +1672,7 @@ You bring forth a great feast, including magnificent food and drink. The feast t
 
 ## Planar Ally
 
-_Conjuration_
+_6th-level Conjuration_
 
 __Casting Time__ 10 minutes
 
@@ -1696,7 +1696,7 @@ You beseech an otherworldly entity for aid. The being must be known to you - a g
 
 ## True Seeing
 
-_Divination_
+_6th-level Divination_
 
 __Casting Time__ 1 action
 
@@ -1710,7 +1710,7 @@ This spell gives the willing creature you touch the ability to see things as the
 
 ## Word of Recall
 
-_Conjuration_
+_6th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -1727,7 +1727,7 @@ You and up to five willing creatures within 5 feet of you instantly teleport to 
 # Level 7 Spells
 ## Conjure Celestial
 
-_Conjuration_
+_7th-level Conjuration_
 
 __Casting Time__ 1 minute
 
@@ -1745,7 +1745,7 @@ You summon a celestial of challenge rating 4 or lower, which appears in an unocc
 
 ## Divine Word
 
-_Evocation_
+_7th-level Evocation_
 
 __Casting Time__ 1 bonus action
 
@@ -1769,7 +1769,7 @@ You utter a divine word, imbued with the power that shaped the world at the dawn
 
 ## Etherealness
 
-_Transmutation_
+_7th-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -1793,7 +1793,7 @@ You step into the border regions of the Ethereal Plane, in the area where it ove
 
 ## Fire Storm
 
-_Evocation_
+_7th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1809,7 +1809,7 @@ A storm made up of sheets of roaring flame appears in a location you choose with
 
 ## Plane Shift
 
-_Conjuration_
+_7th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -1827,7 +1827,7 @@ You and up to eight willing creatures who link hands in a circle are transported
 
 ## Regenerate
 
-_Transmutation_
+_7th-level Transmutation_
 
 __Casting Time__ 1 minute
 
@@ -1843,7 +1843,7 @@ You touch a creature and stimulate its natural healing ability. The target regai
 
 ## Resurrection
 
-_Necromancy_
+_7th-level Necromancy_
 
 __Casting Time__ 1 hour
 
@@ -1865,7 +1865,7 @@ You touch a dead creature that has been dead for no more than a century, that di
 
 ## Symbol
 
-_Abjuration_
+_7th-level Abjuration_
 
 __Casting Time__ 1 minute
 
@@ -1904,7 +1904,7 @@ When you cast this spell, you inscribe a harmful glyph either on a surface (such
 # Level 8 Spells
 ## Antimagic Field
 
-_Abjuration_
+_8th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -1934,7 +1934,7 @@ A 10-foot-radius invisible sphere of antimagic surrounds you. This area is divor
 
 ## Control Weather
 
-_Transmutation_
+_8th-level Transmutation_
 
 __Casting Time__ 10 minutes
 
@@ -1974,7 +1974,7 @@ Stage 5 - Storm
 
 ## Earthquake
 
-_Evocation_
+_8th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -1998,7 +1998,7 @@ You create a seismic disturbance at a point on the ground that you can see withi
 
 ## Holy Aura
 
-_Abjuration_
+_8th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -2013,7 +2013,7 @@ Divine light washes out from you and coalesces in a soft radiance in a 30-foot r
 # Level 9 Spells
 ## Astral Projection
 
-_Necromancy_
+_9th-level Necromancy_
 
 __Casting Time__ 1 hour
 
@@ -2037,7 +2037,7 @@ You and up to eight willing creatures within range project your astral bodies in
 
 ## Gate
 
-_Conjuration_
+_9th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -2057,7 +2057,7 @@ You conjure a portal linking an unoccupied space you can see within range to a p
 
 ## Mass Heal
 
-_Evocation_
+_9th-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -2071,7 +2071,7 @@ A flood of healing energy flows from you into injured creatures around you. You 
 
 ## True Resurrection
 
-_Necromancy_
+_9th-level Necromancy_
 
 __Casting Time__ 1 hour
 

@@ -1,7 +1,7 @@
 # Level 1 Spells
 ## Alarm
 
-_Abjuration_
+_1st-level Abjuration_
 
 __Casting Time__ 1 minute
 
@@ -19,7 +19,7 @@ You set an alarm against unwanted intrusion. Choose a door, a window, or an area
 
 ## Animal Friendship
 
-_Enchantment_
+_1st-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -36,7 +36,7 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 
 ## Cure Wounds
 
-_Evocation_
+_1st-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -52,7 +52,7 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 
 ## Detect Magic
 
-_Divination_
+_1st-level Divination_
 
 __Casting Time__ 1 action
 
@@ -68,7 +68,7 @@ For the duration, you sense the presence of magic within 30 feet of you. If you 
 
 ## Detect Poison and Disease
 
-_Divination_
+_1st-level Divination_
 
 __Casting Time__ 1 action
 
@@ -84,7 +84,7 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 
 ## Ensnaring Strike
 
-_Conjuration_
+_1st-level Conjuration_
 
 __Casting Time__ 1 bonus action
 
@@ -100,7 +100,7 @@ At Higher Levels. If you cast this spell using a spell slot of 2nd level or high
 
 ## Fog Cloud
 
-_Conjuration_
+_1st-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -116,7 +116,7 @@ You create a 20-foot-radius sphere of fog centered on a point within range. The 
 
 ## Goodberry
 
-_Transmutation_
+_1st-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -132,7 +132,7 @@ Up to ten berries appear in your hand and are infused with magic for the duratio
 
 ## Hail of Thorns
 
-_Conjuration_
+_1st-level Conjuration_
 
 __Casting Time__ 1 bonus action
 
@@ -146,7 +146,7 @@ The next time you hit a creature with a ranged weapon attack before the spell en
 
 ## Hunter's Mark
 
-_Divination_
+_1st-level Divination_
 
 __Casting Time__ 1 bonus action
 
@@ -162,7 +162,7 @@ You choose a creature you can see within range and  mystically mark it as your q
 
 ## Jump
 
-_Transmutation_
+_1st-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -176,7 +176,7 @@ You touch a creature. The creature's jump distance is tripled until the spell en
 
 ## Longstrider
 
-_Transmutation_
+_1st-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -192,7 +192,7 @@ You touch a creature. The target's speed increases by 10 feet until the spell en
 
 ## Speak with Animals
 
-_Divination_
+_1st-level Divination_
 
 __Casting Time__ 1 action
 
@@ -207,7 +207,7 @@ You gain the ability to comprehend and verbally communicate with beasts for the 
 # Level 2 Spells
 ## Animal Messenger
 
-_Enchantment_
+_2nd-level Enchantment_
 
 __Casting Time__ 1 action
 
@@ -225,7 +225,7 @@ By means of this spell, you use an animal to deliver a message. Choose a Tiny be
 
 ## Barskin
 
-_Transmutation_
+_2nd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -239,7 +239,7 @@ You touch a willing creature. Until the spell ends, the target's skin has a roug
 
 ## Beast Sense
 
-_Divination_
+_2nd-level Divination_
 
 __Casting Time__ 1 action
 
@@ -253,7 +253,7 @@ You touch a willing beast. For the duration of the spell, you can use your actio
 
 ## Cordon of Arrows
 
-_Transmutation_
+_2nd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -267,7 +267,7 @@ You plant four pieces of nonmagical ammunition— arrows or crossbow bolts—in 
 
 ## Darkvision
 
-_Transmutation_
+_2nd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -281,7 +281,7 @@ You touch a willing creature to grant it the ability to see in the dark. For the
 
 ## Find Traps
 
-_Divination_
+_2nd-level Divination_
 
 __Casting Time__ 1 action
 
@@ -297,7 +297,7 @@ You sense the presence of any trap within range that is within line of sight. A 
 
 ## Lesser Restoration
 
-_Abjuration_
+_2nd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -311,7 +311,7 @@ You touch a creature and can end either one disease or one condition afflicting 
 
 ## Locate Animals or Plants
 
-_Divination_
+_2nd-level Divination_
 
 __Casting Time__ 1 action
 
@@ -325,7 +325,7 @@ Describe or name a specific kind of beast or plant. Concentrating on the voice o
 
 ## Locate Object
 
-_Divination_
+_2nd-level Divination_
 
 __Casting Time__ 1 action
 
@@ -343,7 +343,7 @@ Describe or name an object that is familiar to you. You sense the direction to t
 
 ## Pass without Trace
 
-_Abjuration_
+_2nd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -357,7 +357,7 @@ A veil of shadows and silence radiates from you, masking you and your companions
 
 ## Protection from Poison
 
-_Abjuration_
+_2nd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -373,7 +373,7 @@ You touch a creature. If it is poisoned, you neutralize the poison. If more than
 
 ## Silence
 
-_Illusion_
+_2nd-level Illusion_
 
 __Casting Time__ 1 action
 
@@ -387,7 +387,7 @@ For the duration, no sound can be created within or pass through a 20-foot-radiu
 
 ## Spike Growth
 
-_Transmutation_
+_2nd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -404,7 +404,7 @@ The ground in a 20-foot radius centered on a point within range twists and sprou
 # Level 3 Spells
 ## Conjure Animals
 
-_Conjuration_
+_3rd-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -432,7 +432,7 @@ You summon fey spirits that take the form of beasts and appear in unoccupied spa
 
 ## Conjure Barrage
 
-_Conjuration_
+_3rd-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -446,7 +446,7 @@ You throw a nonmagical weapon or fire a piece of nonmagical ammunition into the 
 
 ## Daylight
 
-_Evocation_
+_3rd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -464,7 +464,7 @@ A 60-foot-radius sphere of light spreads out from a point you choose within rang
 
 ## Lightning Arrow
 
-_Transmutation_
+_3rd-level Transmutation_
 
 __Casting Time__ 1 bonus action
 
@@ -481,7 +481,7 @@ At Higher Levels. When you cast this spell using a spell slot of 4th level or hi
 
 ## Nondetection
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -495,7 +495,7 @@ For the duration, you hide a target that you touch from divination magic. The ta
 
 ## Plant Growth
 
-_Transmutation_
+_3rd-level Transmutation_
 
 __Casting Time__ 1 action or 8 hours
 
@@ -515,7 +515,7 @@ This spell channels vitality into plants within a specific area. There are two p
 
 ## Protection from Energy
 
-_Abjuration_
+_3rd-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -529,7 +529,7 @@ For the duration, the willing creature you touch has resistance to one damage ty
 
 ## Speak with Plants
 
-_Transmutation_
+_3rd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -551,7 +551,7 @@ You imbue plants within 30 feet of you with limited sentience and animation, giv
 
 ## Water Breathing
 
-_Transmutation_
+_3rd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -565,7 +565,7 @@ This spell grants up to ten willing creatures you can see within range the abili
 
 ## Water Walk
 
-_Transmutation_
+_3rd-level Transmutation_
 
 __Casting Time__ 1 action
 
@@ -581,7 +581,7 @@ This spell grants the ability to move across any liquid surface - such as water,
 
 ## Wind Wall
 
-_Evocation_
+_3rd-level Evocation_
 
 __Casting Time__ 1 action
 
@@ -600,7 +600,7 @@ A wall of strong wind rises from the ground at a point you choose within range. 
 # Level 4 Spells
 ## Conjure Woodland Beings
 
-_Conjuration_
+_4th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -626,7 +626,7 @@ You summon fey creatures that appear in unoccupied spaces that you can see withi
 
 ## Freedom of Movement
 
-_Abjuration_
+_4th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -642,7 +642,7 @@ You touch a willing creature. For the duration, the target's movement is unaffec
 
 ## Grasping Vine
 
-_Conjuration_
+_4th-level Conjuration_
 
 __Casting Time__ 1 bonus action
 
@@ -657,7 +657,7 @@ Until the spell ends, you can direct the vine to lash out at the same creature o
 
 ## Locate Creature
 
-_Divination_
+_4th-level Divination_
 
 __Casting Time__ 1 action
 
@@ -675,7 +675,7 @@ Describe or name a creature that is familiar to you. You sense the direction to 
 
 ## Stoneskin
 
-_Abjuration_
+_4th-level Abjuration_
 
 __Casting Time__ 1 action
 
@@ -690,7 +690,7 @@ This spell turns the flesh of a willing creature you touch as hard as stone. Unt
 # Level 5 Spells
 ## Commune with Nature
 
-_Divination_
+_5th-level Divination_
 
 __Casting Time__ 1 minute
 
@@ -708,7 +708,7 @@ You briefly become one with nature and gain knowledge of the surrounding territo
 
 ## Conjure Volley
 
-_Conjuration_
+_5th-level Conjuration_
 
 __Casting Time__ 1 action
 
@@ -722,7 +722,7 @@ You fire a piece of nonmagical ammunition from a ranged weapon or throw a nonmag
 
 ## Swift Quiver
 
-_Transmutation_
+_5th-level Transmutation_
 
 __Casting Time__ 1 minute
 
@@ -736,7 +736,7 @@ You transmute your quiver so it produces an endless supply of nonmagical ammunit
 
 ## Tree Stride
 
-_Conjuration_
+_5th-level Conjuration_
 
 __Casting Time__ 1 action
 
